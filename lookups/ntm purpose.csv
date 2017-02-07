@@ -1,0 +1,16 @@
+NTEM7 Trip Purpose,Description NTEM,NTMv2R Trip Purpose,Description NTM
+1,HB Work,1,HB Work
+2,HB Employers Business (EB),2,HB EB
+3,HB Education,3,HB Educ
+4,HB Shopping,4,HB PB/Shop
+5,HB Personal Business (PB),4,HB PB/Shop
+6,HB Recreation / Social,5,HB Rec/VF
+7,HB Visiting friends & relatives,5,HB Rec/VF
+8,HB Holiday / Day trip,6,HB Hols
+11,NHB Work,8,NHB Other
+12,NHB Employers Business,7,NHB EB
+13,NHB Education,8,NHB Other
+14,NHB Shopping,8,NHB Other
+15,NHB Personal Business,8,NHB Other
+16,NHB Recreation / Social,8,NHB Other
+18,NHB Holiday / Day trip,8,NHB Other

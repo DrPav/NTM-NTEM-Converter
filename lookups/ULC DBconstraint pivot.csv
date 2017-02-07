@@ -1,0 +1,1576 @@
+loFlow,NTM_Zone,Purp,HH,PurpDef,hhDef
+1,1,1,1,HB Work,1-Ad/0-Car
+1,2,1,1,HB Work,1-Ad/0-Car
+1,3,1,1,HB Work,1-Ad/0-Car
+1,4,1,1,HB Work,1-Ad/0-Car
+1,5,1,1,HB Work,1-Ad/0-Car
+1,6,1,1,HB Work,1-Ad/0-Car
+1,7,1,1,HB Work,1-Ad/0-Car
+1,8,1,1,HB Work,1-Ad/0-Car
+1,9,1,1,HB Work,1-Ad/0-Car
+1,10,1,1,HB Work,1-Ad/0-Car
+1,12,1,1,HB Work,1-Ad/0-Car
+1,13,1,1,HB Work,1-Ad/0-Car
+1,14,1,1,HB Work,1-Ad/0-Car
+1,16,1,1,HB Work,1-Ad/0-Car
+1,17,1,1,HB Work,1-Ad/0-Car
+2,1,1,2,HB Work,1-Ad/1-Car
+2,2,1,2,HB Work,1-Ad/1-Car
+2,3,1,2,HB Work,1-Ad/1-Car
+2,4,1,2,HB Work,1-Ad/1-Car
+2,5,1,2,HB Work,1-Ad/1-Car
+2,6,1,2,HB Work,1-Ad/1-Car
+2,7,1,2,HB Work,1-Ad/1-Car
+2,8,1,2,HB Work,1-Ad/1-Car
+2,9,1,2,HB Work,1-Ad/1-Car
+2,10,1,2,HB Work,1-Ad/1-Car
+2,12,1,2,HB Work,1-Ad/1-Car
+2,13,1,2,HB Work,1-Ad/1-Car
+2,14,1,2,HB Work,1-Ad/1-Car
+2,16,1,2,HB Work,1-Ad/1-Car
+2,17,1,2,HB Work,1-Ad/1-Car
+3,1,1,3,HB Work,2+Ad/0-Car
+3,2,1,3,HB Work,2+Ad/0-Car
+3,3,1,3,HB Work,2+Ad/0-Car
+3,4,1,3,HB Work,2+Ad/0-Car
+3,5,1,3,HB Work,2+Ad/0-Car
+3,6,1,3,HB Work,2+Ad/0-Car
+3,7,1,3,HB Work,2+Ad/0-Car
+3,8,1,3,HB Work,2+Ad/0-Car
+3,9,1,3,HB Work,2+Ad/0-Car
+3,10,1,3,HB Work,2+Ad/0-Car
+3,12,1,3,HB Work,2+Ad/0-Car
+3,13,1,3,HB Work,2+Ad/0-Car
+3,14,1,3,HB Work,2+Ad/0-Car
+3,16,1,3,HB Work,2+Ad/0-Car
+3,17,1,3,HB Work,2+Ad/0-Car
+4,1,1,4,HB Work,2+Ad/1-Car
+4,2,1,4,HB Work,2+Ad/1-Car
+4,3,1,4,HB Work,2+Ad/1-Car
+4,4,1,4,HB Work,2+Ad/1-Car
+4,5,1,4,HB Work,2+Ad/1-Car
+4,6,1,4,HB Work,2+Ad/1-Car
+4,7,1,4,HB Work,2+Ad/1-Car
+4,8,1,4,HB Work,2+Ad/1-Car
+4,9,1,4,HB Work,2+Ad/1-Car
+4,10,1,4,HB Work,2+Ad/1-Car
+4,12,1,4,HB Work,2+Ad/1-Car
+4,13,1,4,HB Work,2+Ad/1-Car
+4,14,1,4,HB Work,2+Ad/1-Car
+4,16,1,4,HB Work,2+Ad/1-Car
+4,17,1,4,HB Work,2+Ad/1-Car
+5,1,1,5,HB Work,2+Ad/2+Car
+5,2,1,5,HB Work,2+Ad/2+Car
+5,3,1,5,HB Work,2+Ad/2+Car
+5,4,1,5,HB Work,2+Ad/2+Car
+5,5,1,5,HB Work,2+Ad/2+Car
+5,6,1,5,HB Work,2+Ad/2+Car
+5,7,1,5,HB Work,2+Ad/2+Car
+5,8,1,5,HB Work,2+Ad/2+Car
+5,9,1,5,HB Work,2+Ad/2+Car
+5,10,1,5,HB Work,2+Ad/2+Car
+5,12,1,5,HB Work,2+Ad/2+Car
+5,13,1,5,HB Work,2+Ad/2+Car
+5,14,1,5,HB Work,2+Ad/2+Car
+5,16,1,5,HB Work,2+Ad/2+Car
+5,17,1,5,HB Work,2+Ad/2+Car
+6,1,1,1,HB Work,1-Ad/0-Car
+6,2,1,1,HB Work,1-Ad/0-Car
+6,3,1,1,HB Work,1-Ad/0-Car
+6,4,1,1,HB Work,1-Ad/0-Car
+6,5,1,1,HB Work,1-Ad/0-Car
+6,6,1,1,HB Work,1-Ad/0-Car
+6,7,1,1,HB Work,1-Ad/0-Car
+6,8,1,1,HB Work,1-Ad/0-Car
+6,9,1,1,HB Work,1-Ad/0-Car
+6,10,1,1,HB Work,1-Ad/0-Car
+6,12,1,1,HB Work,1-Ad/0-Car
+6,13,1,1,HB Work,1-Ad/0-Car
+6,14,1,1,HB Work,1-Ad/0-Car
+6,16,1,1,HB Work,1-Ad/0-Car
+6,17,1,1,HB Work,1-Ad/0-Car
+7,1,1,2,HB Work,1-Ad/1-Car
+7,2,1,2,HB Work,1-Ad/1-Car
+7,3,1,2,HB Work,1-Ad/1-Car
+7,4,1,2,HB Work,1-Ad/1-Car
+7,5,1,2,HB Work,1-Ad/1-Car
+7,6,1,2,HB Work,1-Ad/1-Car
+7,7,1,2,HB Work,1-Ad/1-Car
+7,8,1,2,HB Work,1-Ad/1-Car
+7,9,1,2,HB Work,1-Ad/1-Car
+7,10,1,2,HB Work,1-Ad/1-Car
+7,12,1,2,HB Work,1-Ad/1-Car
+7,13,1,2,HB Work,1-Ad/1-Car
+7,14,1,2,HB Work,1-Ad/1-Car
+7,16,1,2,HB Work,1-Ad/1-Car
+7,17,1,2,HB Work,1-Ad/1-Car
+8,1,1,3,HB Work,2+Ad/0-Car
+8,2,1,3,HB Work,2+Ad/0-Car
+8,3,1,3,HB Work,2+Ad/0-Car
+8,4,1,3,HB Work,2+Ad/0-Car
+8,5,1,3,HB Work,2+Ad/0-Car
+8,6,1,3,HB Work,2+Ad/0-Car
+8,7,1,3,HB Work,2+Ad/0-Car
+8,8,1,3,HB Work,2+Ad/0-Car
+8,9,1,3,HB Work,2+Ad/0-Car
+8,10,1,3,HB Work,2+Ad/0-Car
+8,12,1,3,HB Work,2+Ad/0-Car
+8,13,1,3,HB Work,2+Ad/0-Car
+8,14,1,3,HB Work,2+Ad/0-Car
+8,16,1,3,HB Work,2+Ad/0-Car
+8,17,1,3,HB Work,2+Ad/0-Car
+9,1,1,4,HB Work,2+Ad/1-Car
+9,2,1,4,HB Work,2+Ad/1-Car
+9,3,1,4,HB Work,2+Ad/1-Car
+9,4,1,4,HB Work,2+Ad/1-Car
+9,5,1,4,HB Work,2+Ad/1-Car
+9,6,1,4,HB Work,2+Ad/1-Car
+9,7,1,4,HB Work,2+Ad/1-Car
+9,8,1,4,HB Work,2+Ad/1-Car
+9,9,1,4,HB Work,2+Ad/1-Car
+9,10,1,4,HB Work,2+Ad/1-Car
+9,12,1,4,HB Work,2+Ad/1-Car
+9,13,1,4,HB Work,2+Ad/1-Car
+9,14,1,4,HB Work,2+Ad/1-Car
+9,16,1,4,HB Work,2+Ad/1-Car
+9,17,1,4,HB Work,2+Ad/1-Car
+10,1,1,5,HB Work,2+Ad/2+Car
+10,2,1,5,HB Work,2+Ad/2+Car
+10,3,1,5,HB Work,2+Ad/2+Car
+10,4,1,5,HB Work,2+Ad/2+Car
+10,5,1,5,HB Work,2+Ad/2+Car
+10,6,1,5,HB Work,2+Ad/2+Car
+10,7,1,5,HB Work,2+Ad/2+Car
+10,8,1,5,HB Work,2+Ad/2+Car
+10,9,1,5,HB Work,2+Ad/2+Car
+10,10,1,5,HB Work,2+Ad/2+Car
+10,12,1,5,HB Work,2+Ad/2+Car
+10,13,1,5,HB Work,2+Ad/2+Car
+10,14,1,5,HB Work,2+Ad/2+Car
+10,16,1,5,HB Work,2+Ad/2+Car
+10,17,1,5,HB Work,2+Ad/2+Car
+11,1,1,1,HB Work,1-Ad/0-Car
+11,2,1,1,HB Work,1-Ad/0-Car
+11,3,1,1,HB Work,1-Ad/0-Car
+11,4,1,1,HB Work,1-Ad/0-Car
+11,5,1,1,HB Work,1-Ad/0-Car
+11,6,1,1,HB Work,1-Ad/0-Car
+11,7,1,1,HB Work,1-Ad/0-Car
+11,8,1,1,HB Work,1-Ad/0-Car
+11,9,1,1,HB Work,1-Ad/0-Car
+11,10,1,1,HB Work,1-Ad/0-Car
+11,12,1,1,HB Work,1-Ad/0-Car
+11,13,1,1,HB Work,1-Ad/0-Car
+11,14,1,1,HB Work,1-Ad/0-Car
+11,16,1,1,HB Work,1-Ad/0-Car
+11,17,1,1,HB Work,1-Ad/0-Car
+12,1,1,2,HB Work,1-Ad/1-Car
+12,2,1,2,HB Work,1-Ad/1-Car
+12,3,1,2,HB Work,1-Ad/1-Car
+12,4,1,2,HB Work,1-Ad/1-Car
+12,5,1,2,HB Work,1-Ad/1-Car
+12,6,1,2,HB Work,1-Ad/1-Car
+12,7,1,2,HB Work,1-Ad/1-Car
+12,8,1,2,HB Work,1-Ad/1-Car
+12,9,1,2,HB Work,1-Ad/1-Car
+12,10,1,2,HB Work,1-Ad/1-Car
+12,12,1,2,HB Work,1-Ad/1-Car
+12,13,1,2,HB Work,1-Ad/1-Car
+12,14,1,2,HB Work,1-Ad/1-Car
+12,16,1,2,HB Work,1-Ad/1-Car
+12,17,1,2,HB Work,1-Ad/1-Car
+13,1,1,3,HB Work,2+Ad/0-Car
+13,2,1,3,HB Work,2+Ad/0-Car
+13,3,1,3,HB Work,2+Ad/0-Car
+13,4,1,3,HB Work,2+Ad/0-Car
+13,5,1,3,HB Work,2+Ad/0-Car
+13,6,1,3,HB Work,2+Ad/0-Car
+13,7,1,3,HB Work,2+Ad/0-Car
+13,8,1,3,HB Work,2+Ad/0-Car
+13,9,1,3,HB Work,2+Ad/0-Car
+13,10,1,3,HB Work,2+Ad/0-Car
+13,12,1,3,HB Work,2+Ad/0-Car
+13,13,1,3,HB Work,2+Ad/0-Car
+13,14,1,3,HB Work,2+Ad/0-Car
+13,16,1,3,HB Work,2+Ad/0-Car
+13,17,1,3,HB Work,2+Ad/0-Car
+14,1,1,4,HB Work,2+Ad/1-Car
+14,2,1,4,HB Work,2+Ad/1-Car
+14,3,1,4,HB Work,2+Ad/1-Car
+14,4,1,4,HB Work,2+Ad/1-Car
+14,5,1,4,HB Work,2+Ad/1-Car
+14,6,1,4,HB Work,2+Ad/1-Car
+14,7,1,4,HB Work,2+Ad/1-Car
+14,8,1,4,HB Work,2+Ad/1-Car
+14,9,1,4,HB Work,2+Ad/1-Car
+14,10,1,4,HB Work,2+Ad/1-Car
+14,12,1,4,HB Work,2+Ad/1-Car
+14,13,1,4,HB Work,2+Ad/1-Car
+14,14,1,4,HB Work,2+Ad/1-Car
+14,16,1,4,HB Work,2+Ad/1-Car
+14,17,1,4,HB Work,2+Ad/1-Car
+15,1,1,5,HB Work,2+Ad/2+Car
+15,2,1,5,HB Work,2+Ad/2+Car
+15,3,1,5,HB Work,2+Ad/2+Car
+15,4,1,5,HB Work,2+Ad/2+Car
+15,5,1,5,HB Work,2+Ad/2+Car
+15,6,1,5,HB Work,2+Ad/2+Car
+15,7,1,5,HB Work,2+Ad/2+Car
+15,8,1,5,HB Work,2+Ad/2+Car
+15,9,1,5,HB Work,2+Ad/2+Car
+15,10,1,5,HB Work,2+Ad/2+Car
+15,12,1,5,HB Work,2+Ad/2+Car
+15,13,1,5,HB Work,2+Ad/2+Car
+15,14,1,5,HB Work,2+Ad/2+Car
+15,16,1,5,HB Work,2+Ad/2+Car
+15,17,1,5,HB Work,2+Ad/2+Car
+16,1,1,1,HB Work,1-Ad/0-Car
+16,2,1,1,HB Work,1-Ad/0-Car
+16,3,1,1,HB Work,1-Ad/0-Car
+16,4,1,1,HB Work,1-Ad/0-Car
+16,5,1,1,HB Work,1-Ad/0-Car
+16,6,1,1,HB Work,1-Ad/0-Car
+16,7,1,1,HB Work,1-Ad/0-Car
+16,8,1,1,HB Work,1-Ad/0-Car
+16,9,1,1,HB Work,1-Ad/0-Car
+16,10,1,1,HB Work,1-Ad/0-Car
+16,12,1,1,HB Work,1-Ad/0-Car
+16,13,1,1,HB Work,1-Ad/0-Car
+16,14,1,1,HB Work,1-Ad/0-Car
+16,16,1,1,HB Work,1-Ad/0-Car
+16,17,1,1,HB Work,1-Ad/0-Car
+17,1,1,2,HB Work,1-Ad/1-Car
+17,2,1,2,HB Work,1-Ad/1-Car
+17,3,1,2,HB Work,1-Ad/1-Car
+17,4,1,2,HB Work,1-Ad/1-Car
+17,5,1,2,HB Work,1-Ad/1-Car
+17,6,1,2,HB Work,1-Ad/1-Car
+17,7,1,2,HB Work,1-Ad/1-Car
+17,8,1,2,HB Work,1-Ad/1-Car
+17,9,1,2,HB Work,1-Ad/1-Car
+17,10,1,2,HB Work,1-Ad/1-Car
+17,12,1,2,HB Work,1-Ad/1-Car
+17,13,1,2,HB Work,1-Ad/1-Car
+17,14,1,2,HB Work,1-Ad/1-Car
+17,16,1,2,HB Work,1-Ad/1-Car
+17,17,1,2,HB Work,1-Ad/1-Car
+18,1,1,3,HB Work,2+Ad/0-Car
+18,2,1,3,HB Work,2+Ad/0-Car
+18,3,1,3,HB Work,2+Ad/0-Car
+18,4,1,3,HB Work,2+Ad/0-Car
+18,5,1,3,HB Work,2+Ad/0-Car
+18,6,1,3,HB Work,2+Ad/0-Car
+18,7,1,3,HB Work,2+Ad/0-Car
+18,8,1,3,HB Work,2+Ad/0-Car
+18,9,1,3,HB Work,2+Ad/0-Car
+18,10,1,3,HB Work,2+Ad/0-Car
+18,12,1,3,HB Work,2+Ad/0-Car
+18,13,1,3,HB Work,2+Ad/0-Car
+18,14,1,3,HB Work,2+Ad/0-Car
+18,16,1,3,HB Work,2+Ad/0-Car
+18,17,1,3,HB Work,2+Ad/0-Car
+19,1,1,4,HB Work,2+Ad/1-Car
+19,2,1,4,HB Work,2+Ad/1-Car
+19,3,1,4,HB Work,2+Ad/1-Car
+19,4,1,4,HB Work,2+Ad/1-Car
+19,5,1,4,HB Work,2+Ad/1-Car
+19,6,1,4,HB Work,2+Ad/1-Car
+19,7,1,4,HB Work,2+Ad/1-Car
+19,8,1,4,HB Work,2+Ad/1-Car
+19,9,1,4,HB Work,2+Ad/1-Car
+19,10,1,4,HB Work,2+Ad/1-Car
+19,12,1,4,HB Work,2+Ad/1-Car
+19,13,1,4,HB Work,2+Ad/1-Car
+19,14,1,4,HB Work,2+Ad/1-Car
+19,16,1,4,HB Work,2+Ad/1-Car
+19,17,1,4,HB Work,2+Ad/1-Car
+20,1,1,5,HB Work,2+Ad/2+Car
+20,2,1,5,HB Work,2+Ad/2+Car
+20,3,1,5,HB Work,2+Ad/2+Car
+20,4,1,5,HB Work,2+Ad/2+Car
+20,5,1,5,HB Work,2+Ad/2+Car
+20,6,1,5,HB Work,2+Ad/2+Car
+20,7,1,5,HB Work,2+Ad/2+Car
+20,8,1,5,HB Work,2+Ad/2+Car
+20,9,1,5,HB Work,2+Ad/2+Car
+20,10,1,5,HB Work,2+Ad/2+Car
+20,12,1,5,HB Work,2+Ad/2+Car
+20,13,1,5,HB Work,2+Ad/2+Car
+20,14,1,5,HB Work,2+Ad/2+Car
+20,16,1,5,HB Work,2+Ad/2+Car
+20,17,1,5,HB Work,2+Ad/2+Car
+21,1,2,1,HB EB,1-Ad/0-Car
+21,2,2,1,HB EB,1-Ad/0-Car
+21,3,2,1,HB EB,1-Ad/0-Car
+21,4,2,1,HB EB,1-Ad/0-Car
+21,5,2,1,HB EB,1-Ad/0-Car
+21,6,2,1,HB EB,1-Ad/0-Car
+21,7,2,1,HB EB,1-Ad/0-Car
+21,8,2,1,HB EB,1-Ad/0-Car
+21,9,2,1,HB EB,1-Ad/0-Car
+21,10,2,1,HB EB,1-Ad/0-Car
+21,12,2,1,HB EB,1-Ad/0-Car
+21,13,2,1,HB EB,1-Ad/0-Car
+21,14,2,1,HB EB,1-Ad/0-Car
+21,16,2,1,HB EB,1-Ad/0-Car
+21,17,2,1,HB EB,1-Ad/0-Car
+22,1,2,2,HB EB,1-Ad/1-Car
+22,2,2,2,HB EB,1-Ad/1-Car
+22,3,2,2,HB EB,1-Ad/1-Car
+22,4,2,2,HB EB,1-Ad/1-Car
+22,5,2,2,HB EB,1-Ad/1-Car
+22,6,2,2,HB EB,1-Ad/1-Car
+22,7,2,2,HB EB,1-Ad/1-Car
+22,8,2,2,HB EB,1-Ad/1-Car
+22,9,2,2,HB EB,1-Ad/1-Car
+22,10,2,2,HB EB,1-Ad/1-Car
+22,12,2,2,HB EB,1-Ad/1-Car
+22,13,2,2,HB EB,1-Ad/1-Car
+22,14,2,2,HB EB,1-Ad/1-Car
+22,16,2,2,HB EB,1-Ad/1-Car
+22,17,2,2,HB EB,1-Ad/1-Car
+23,1,2,3,HB EB,2+Ad/0-Car
+23,2,2,3,HB EB,2+Ad/0-Car
+23,3,2,3,HB EB,2+Ad/0-Car
+23,4,2,3,HB EB,2+Ad/0-Car
+23,5,2,3,HB EB,2+Ad/0-Car
+23,6,2,3,HB EB,2+Ad/0-Car
+23,7,2,3,HB EB,2+Ad/0-Car
+23,8,2,3,HB EB,2+Ad/0-Car
+23,9,2,3,HB EB,2+Ad/0-Car
+23,10,2,3,HB EB,2+Ad/0-Car
+23,12,2,3,HB EB,2+Ad/0-Car
+23,13,2,3,HB EB,2+Ad/0-Car
+23,14,2,3,HB EB,2+Ad/0-Car
+23,16,2,3,HB EB,2+Ad/0-Car
+23,17,2,3,HB EB,2+Ad/0-Car
+24,1,2,4,HB EB,2+Ad/1-Car
+24,2,2,4,HB EB,2+Ad/1-Car
+24,3,2,4,HB EB,2+Ad/1-Car
+24,4,2,4,HB EB,2+Ad/1-Car
+24,5,2,4,HB EB,2+Ad/1-Car
+24,6,2,4,HB EB,2+Ad/1-Car
+24,7,2,4,HB EB,2+Ad/1-Car
+24,8,2,4,HB EB,2+Ad/1-Car
+24,9,2,4,HB EB,2+Ad/1-Car
+24,10,2,4,HB EB,2+Ad/1-Car
+24,12,2,4,HB EB,2+Ad/1-Car
+24,13,2,4,HB EB,2+Ad/1-Car
+24,14,2,4,HB EB,2+Ad/1-Car
+24,16,2,4,HB EB,2+Ad/1-Car
+24,17,2,4,HB EB,2+Ad/1-Car
+25,1,2,5,HB EB,2+Ad/2+Car
+25,2,2,5,HB EB,2+Ad/2+Car
+25,3,2,5,HB EB,2+Ad/2+Car
+25,4,2,5,HB EB,2+Ad/2+Car
+25,5,2,5,HB EB,2+Ad/2+Car
+25,6,2,5,HB EB,2+Ad/2+Car
+25,7,2,5,HB EB,2+Ad/2+Car
+25,8,2,5,HB EB,2+Ad/2+Car
+25,9,2,5,HB EB,2+Ad/2+Car
+25,10,2,5,HB EB,2+Ad/2+Car
+25,12,2,5,HB EB,2+Ad/2+Car
+25,13,2,5,HB EB,2+Ad/2+Car
+25,14,2,5,HB EB,2+Ad/2+Car
+25,16,2,5,HB EB,2+Ad/2+Car
+25,17,2,5,HB EB,2+Ad/2+Car
+26,1,2,1,HB EB,1-Ad/0-Car
+26,2,2,1,HB EB,1-Ad/0-Car
+26,3,2,1,HB EB,1-Ad/0-Car
+26,4,2,1,HB EB,1-Ad/0-Car
+26,5,2,1,HB EB,1-Ad/0-Car
+26,6,2,1,HB EB,1-Ad/0-Car
+26,7,2,1,HB EB,1-Ad/0-Car
+26,8,2,1,HB EB,1-Ad/0-Car
+26,9,2,1,HB EB,1-Ad/0-Car
+26,10,2,1,HB EB,1-Ad/0-Car
+26,12,2,1,HB EB,1-Ad/0-Car
+26,13,2,1,HB EB,1-Ad/0-Car
+26,14,2,1,HB EB,1-Ad/0-Car
+26,16,2,1,HB EB,1-Ad/0-Car
+26,17,2,1,HB EB,1-Ad/0-Car
+27,1,2,2,HB EB,1-Ad/1-Car
+27,2,2,2,HB EB,1-Ad/1-Car
+27,3,2,2,HB EB,1-Ad/1-Car
+27,4,2,2,HB EB,1-Ad/1-Car
+27,5,2,2,HB EB,1-Ad/1-Car
+27,6,2,2,HB EB,1-Ad/1-Car
+27,7,2,2,HB EB,1-Ad/1-Car
+27,8,2,2,HB EB,1-Ad/1-Car
+27,9,2,2,HB EB,1-Ad/1-Car
+27,10,2,2,HB EB,1-Ad/1-Car
+27,12,2,2,HB EB,1-Ad/1-Car
+27,13,2,2,HB EB,1-Ad/1-Car
+27,14,2,2,HB EB,1-Ad/1-Car
+27,16,2,2,HB EB,1-Ad/1-Car
+27,17,2,2,HB EB,1-Ad/1-Car
+28,1,2,3,HB EB,2+Ad/0-Car
+28,2,2,3,HB EB,2+Ad/0-Car
+28,3,2,3,HB EB,2+Ad/0-Car
+28,4,2,3,HB EB,2+Ad/0-Car
+28,5,2,3,HB EB,2+Ad/0-Car
+28,6,2,3,HB EB,2+Ad/0-Car
+28,7,2,3,HB EB,2+Ad/0-Car
+28,8,2,3,HB EB,2+Ad/0-Car
+28,9,2,3,HB EB,2+Ad/0-Car
+28,10,2,3,HB EB,2+Ad/0-Car
+28,12,2,3,HB EB,2+Ad/0-Car
+28,13,2,3,HB EB,2+Ad/0-Car
+28,14,2,3,HB EB,2+Ad/0-Car
+28,16,2,3,HB EB,2+Ad/0-Car
+28,17,2,3,HB EB,2+Ad/0-Car
+29,1,2,4,HB EB,2+Ad/1-Car
+29,2,2,4,HB EB,2+Ad/1-Car
+29,3,2,4,HB EB,2+Ad/1-Car
+29,4,2,4,HB EB,2+Ad/1-Car
+29,5,2,4,HB EB,2+Ad/1-Car
+29,6,2,4,HB EB,2+Ad/1-Car
+29,7,2,4,HB EB,2+Ad/1-Car
+29,8,2,4,HB EB,2+Ad/1-Car
+29,9,2,4,HB EB,2+Ad/1-Car
+29,10,2,4,HB EB,2+Ad/1-Car
+29,12,2,4,HB EB,2+Ad/1-Car
+29,13,2,4,HB EB,2+Ad/1-Car
+29,14,2,4,HB EB,2+Ad/1-Car
+29,16,2,4,HB EB,2+Ad/1-Car
+29,17,2,4,HB EB,2+Ad/1-Car
+30,1,2,5,HB EB,2+Ad/2+Car
+30,2,2,5,HB EB,2+Ad/2+Car
+30,3,2,5,HB EB,2+Ad/2+Car
+30,4,2,5,HB EB,2+Ad/2+Car
+30,5,2,5,HB EB,2+Ad/2+Car
+30,6,2,5,HB EB,2+Ad/2+Car
+30,7,2,5,HB EB,2+Ad/2+Car
+30,8,2,5,HB EB,2+Ad/2+Car
+30,9,2,5,HB EB,2+Ad/2+Car
+30,10,2,5,HB EB,2+Ad/2+Car
+30,12,2,5,HB EB,2+Ad/2+Car
+30,13,2,5,HB EB,2+Ad/2+Car
+30,14,2,5,HB EB,2+Ad/2+Car
+30,16,2,5,HB EB,2+Ad/2+Car
+30,17,2,5,HB EB,2+Ad/2+Car
+31,1,2,1,HB EB,1-Ad/0-Car
+31,2,2,1,HB EB,1-Ad/0-Car
+31,3,2,1,HB EB,1-Ad/0-Car
+31,4,2,1,HB EB,1-Ad/0-Car
+31,5,2,1,HB EB,1-Ad/0-Car
+31,6,2,1,HB EB,1-Ad/0-Car
+31,7,2,1,HB EB,1-Ad/0-Car
+31,8,2,1,HB EB,1-Ad/0-Car
+31,9,2,1,HB EB,1-Ad/0-Car
+31,10,2,1,HB EB,1-Ad/0-Car
+31,12,2,1,HB EB,1-Ad/0-Car
+31,13,2,1,HB EB,1-Ad/0-Car
+31,14,2,1,HB EB,1-Ad/0-Car
+31,16,2,1,HB EB,1-Ad/0-Car
+31,17,2,1,HB EB,1-Ad/0-Car
+32,1,2,2,HB EB,1-Ad/1-Car
+32,2,2,2,HB EB,1-Ad/1-Car
+32,3,2,2,HB EB,1-Ad/1-Car
+32,4,2,2,HB EB,1-Ad/1-Car
+32,5,2,2,HB EB,1-Ad/1-Car
+32,6,2,2,HB EB,1-Ad/1-Car
+32,7,2,2,HB EB,1-Ad/1-Car
+32,8,2,2,HB EB,1-Ad/1-Car
+32,9,2,2,HB EB,1-Ad/1-Car
+32,10,2,2,HB EB,1-Ad/1-Car
+32,12,2,2,HB EB,1-Ad/1-Car
+32,13,2,2,HB EB,1-Ad/1-Car
+32,14,2,2,HB EB,1-Ad/1-Car
+32,16,2,2,HB EB,1-Ad/1-Car
+32,17,2,2,HB EB,1-Ad/1-Car
+33,1,2,3,HB EB,2+Ad/0-Car
+33,2,2,3,HB EB,2+Ad/0-Car
+33,3,2,3,HB EB,2+Ad/0-Car
+33,4,2,3,HB EB,2+Ad/0-Car
+33,5,2,3,HB EB,2+Ad/0-Car
+33,6,2,3,HB EB,2+Ad/0-Car
+33,7,2,3,HB EB,2+Ad/0-Car
+33,8,2,3,HB EB,2+Ad/0-Car
+33,9,2,3,HB EB,2+Ad/0-Car
+33,10,2,3,HB EB,2+Ad/0-Car
+33,12,2,3,HB EB,2+Ad/0-Car
+33,13,2,3,HB EB,2+Ad/0-Car
+33,14,2,3,HB EB,2+Ad/0-Car
+33,16,2,3,HB EB,2+Ad/0-Car
+33,17,2,3,HB EB,2+Ad/0-Car
+34,1,2,4,HB EB,2+Ad/1-Car
+34,2,2,4,HB EB,2+Ad/1-Car
+34,3,2,4,HB EB,2+Ad/1-Car
+34,4,2,4,HB EB,2+Ad/1-Car
+34,5,2,4,HB EB,2+Ad/1-Car
+34,6,2,4,HB EB,2+Ad/1-Car
+34,7,2,4,HB EB,2+Ad/1-Car
+34,8,2,4,HB EB,2+Ad/1-Car
+34,9,2,4,HB EB,2+Ad/1-Car
+34,10,2,4,HB EB,2+Ad/1-Car
+34,12,2,4,HB EB,2+Ad/1-Car
+34,13,2,4,HB EB,2+Ad/1-Car
+34,14,2,4,HB EB,2+Ad/1-Car
+34,16,2,4,HB EB,2+Ad/1-Car
+34,17,2,4,HB EB,2+Ad/1-Car
+35,1,2,5,HB EB,2+Ad/2+Car
+35,2,2,5,HB EB,2+Ad/2+Car
+35,3,2,5,HB EB,2+Ad/2+Car
+35,4,2,5,HB EB,2+Ad/2+Car
+35,5,2,5,HB EB,2+Ad/2+Car
+35,6,2,5,HB EB,2+Ad/2+Car
+35,7,2,5,HB EB,2+Ad/2+Car
+35,8,2,5,HB EB,2+Ad/2+Car
+35,9,2,5,HB EB,2+Ad/2+Car
+35,10,2,5,HB EB,2+Ad/2+Car
+35,12,2,5,HB EB,2+Ad/2+Car
+35,13,2,5,HB EB,2+Ad/2+Car
+35,14,2,5,HB EB,2+Ad/2+Car
+35,16,2,5,HB EB,2+Ad/2+Car
+35,17,2,5,HB EB,2+Ad/2+Car
+36,1,2,1,HB EB,1-Ad/0-Car
+36,2,2,1,HB EB,1-Ad/0-Car
+36,3,2,1,HB EB,1-Ad/0-Car
+36,4,2,1,HB EB,1-Ad/0-Car
+36,5,2,1,HB EB,1-Ad/0-Car
+36,6,2,1,HB EB,1-Ad/0-Car
+36,7,2,1,HB EB,1-Ad/0-Car
+36,8,2,1,HB EB,1-Ad/0-Car
+36,9,2,1,HB EB,1-Ad/0-Car
+36,10,2,1,HB EB,1-Ad/0-Car
+36,12,2,1,HB EB,1-Ad/0-Car
+36,13,2,1,HB EB,1-Ad/0-Car
+36,14,2,1,HB EB,1-Ad/0-Car
+36,16,2,1,HB EB,1-Ad/0-Car
+36,17,2,1,HB EB,1-Ad/0-Car
+37,1,2,2,HB EB,1-Ad/1-Car
+37,2,2,2,HB EB,1-Ad/1-Car
+37,3,2,2,HB EB,1-Ad/1-Car
+37,4,2,2,HB EB,1-Ad/1-Car
+37,5,2,2,HB EB,1-Ad/1-Car
+37,6,2,2,HB EB,1-Ad/1-Car
+37,7,2,2,HB EB,1-Ad/1-Car
+37,8,2,2,HB EB,1-Ad/1-Car
+37,9,2,2,HB EB,1-Ad/1-Car
+37,10,2,2,HB EB,1-Ad/1-Car
+37,12,2,2,HB EB,1-Ad/1-Car
+37,13,2,2,HB EB,1-Ad/1-Car
+37,14,2,2,HB EB,1-Ad/1-Car
+37,16,2,2,HB EB,1-Ad/1-Car
+37,17,2,2,HB EB,1-Ad/1-Car
+38,1,2,3,HB EB,2+Ad/0-Car
+38,2,2,3,HB EB,2+Ad/0-Car
+38,3,2,3,HB EB,2+Ad/0-Car
+38,4,2,3,HB EB,2+Ad/0-Car
+38,5,2,3,HB EB,2+Ad/0-Car
+38,6,2,3,HB EB,2+Ad/0-Car
+38,7,2,3,HB EB,2+Ad/0-Car
+38,8,2,3,HB EB,2+Ad/0-Car
+38,9,2,3,HB EB,2+Ad/0-Car
+38,10,2,3,HB EB,2+Ad/0-Car
+38,12,2,3,HB EB,2+Ad/0-Car
+38,13,2,3,HB EB,2+Ad/0-Car
+38,14,2,3,HB EB,2+Ad/0-Car
+38,16,2,3,HB EB,2+Ad/0-Car
+38,17,2,3,HB EB,2+Ad/0-Car
+39,1,2,4,HB EB,2+Ad/1-Car
+39,2,2,4,HB EB,2+Ad/1-Car
+39,3,2,4,HB EB,2+Ad/1-Car
+39,4,2,4,HB EB,2+Ad/1-Car
+39,5,2,4,HB EB,2+Ad/1-Car
+39,6,2,4,HB EB,2+Ad/1-Car
+39,7,2,4,HB EB,2+Ad/1-Car
+39,8,2,4,HB EB,2+Ad/1-Car
+39,9,2,4,HB EB,2+Ad/1-Car
+39,10,2,4,HB EB,2+Ad/1-Car
+39,12,2,4,HB EB,2+Ad/1-Car
+39,13,2,4,HB EB,2+Ad/1-Car
+39,14,2,4,HB EB,2+Ad/1-Car
+39,16,2,4,HB EB,2+Ad/1-Car
+39,17,2,4,HB EB,2+Ad/1-Car
+40,1,2,5,HB EB,2+Ad/2+Car
+40,2,2,5,HB EB,2+Ad/2+Car
+40,3,2,5,HB EB,2+Ad/2+Car
+40,4,2,5,HB EB,2+Ad/2+Car
+40,5,2,5,HB EB,2+Ad/2+Car
+40,6,2,5,HB EB,2+Ad/2+Car
+40,7,2,5,HB EB,2+Ad/2+Car
+40,8,2,5,HB EB,2+Ad/2+Car
+40,9,2,5,HB EB,2+Ad/2+Car
+40,10,2,5,HB EB,2+Ad/2+Car
+40,12,2,5,HB EB,2+Ad/2+Car
+40,13,2,5,HB EB,2+Ad/2+Car
+40,14,2,5,HB EB,2+Ad/2+Car
+40,16,2,5,HB EB,2+Ad/2+Car
+40,17,2,5,HB EB,2+Ad/2+Car
+41,1,3,1,HB Educ,1-Ad/0-Car
+41,2,3,1,HB Educ,1-Ad/0-Car
+41,3,3,1,HB Educ,1-Ad/0-Car
+41,4,3,1,HB Educ,1-Ad/0-Car
+41,5,3,1,HB Educ,1-Ad/0-Car
+41,6,3,1,HB Educ,1-Ad/0-Car
+41,7,3,1,HB Educ,1-Ad/0-Car
+41,8,3,1,HB Educ,1-Ad/0-Car
+41,9,3,1,HB Educ,1-Ad/0-Car
+41,10,3,1,HB Educ,1-Ad/0-Car
+41,12,3,1,HB Educ,1-Ad/0-Car
+41,13,3,1,HB Educ,1-Ad/0-Car
+41,14,3,1,HB Educ,1-Ad/0-Car
+41,16,3,1,HB Educ,1-Ad/0-Car
+41,17,3,1,HB Educ,1-Ad/0-Car
+42,1,3,2,HB Educ,1-Ad/1-Car
+42,2,3,2,HB Educ,1-Ad/1-Car
+42,3,3,2,HB Educ,1-Ad/1-Car
+42,4,3,2,HB Educ,1-Ad/1-Car
+42,5,3,2,HB Educ,1-Ad/1-Car
+42,6,3,2,HB Educ,1-Ad/1-Car
+42,7,3,2,HB Educ,1-Ad/1-Car
+42,8,3,2,HB Educ,1-Ad/1-Car
+42,9,3,2,HB Educ,1-Ad/1-Car
+42,10,3,2,HB Educ,1-Ad/1-Car
+42,12,3,2,HB Educ,1-Ad/1-Car
+42,13,3,2,HB Educ,1-Ad/1-Car
+42,14,3,2,HB Educ,1-Ad/1-Car
+42,16,3,2,HB Educ,1-Ad/1-Car
+42,17,3,2,HB Educ,1-Ad/1-Car
+43,1,3,3,HB Educ,2+Ad/0-Car
+43,2,3,3,HB Educ,2+Ad/0-Car
+43,3,3,3,HB Educ,2+Ad/0-Car
+43,4,3,3,HB Educ,2+Ad/0-Car
+43,5,3,3,HB Educ,2+Ad/0-Car
+43,6,3,3,HB Educ,2+Ad/0-Car
+43,7,3,3,HB Educ,2+Ad/0-Car
+43,8,3,3,HB Educ,2+Ad/0-Car
+43,9,3,3,HB Educ,2+Ad/0-Car
+43,10,3,3,HB Educ,2+Ad/0-Car
+43,12,3,3,HB Educ,2+Ad/0-Car
+43,13,3,3,HB Educ,2+Ad/0-Car
+43,14,3,3,HB Educ,2+Ad/0-Car
+43,16,3,3,HB Educ,2+Ad/0-Car
+43,17,3,3,HB Educ,2+Ad/0-Car
+44,1,3,4,HB Educ,2+Ad/1-Car
+44,2,3,4,HB Educ,2+Ad/1-Car
+44,3,3,4,HB Educ,2+Ad/1-Car
+44,4,3,4,HB Educ,2+Ad/1-Car
+44,5,3,4,HB Educ,2+Ad/1-Car
+44,6,3,4,HB Educ,2+Ad/1-Car
+44,7,3,4,HB Educ,2+Ad/1-Car
+44,8,3,4,HB Educ,2+Ad/1-Car
+44,9,3,4,HB Educ,2+Ad/1-Car
+44,10,3,4,HB Educ,2+Ad/1-Car
+44,12,3,4,HB Educ,2+Ad/1-Car
+44,13,3,4,HB Educ,2+Ad/1-Car
+44,14,3,4,HB Educ,2+Ad/1-Car
+44,16,3,4,HB Educ,2+Ad/1-Car
+44,17,3,4,HB Educ,2+Ad/1-Car
+45,1,3,5,HB Educ,2+Ad/2+Car
+45,2,3,5,HB Educ,2+Ad/2+Car
+45,3,3,5,HB Educ,2+Ad/2+Car
+45,4,3,5,HB Educ,2+Ad/2+Car
+45,5,3,5,HB Educ,2+Ad/2+Car
+45,6,3,5,HB Educ,2+Ad/2+Car
+45,7,3,5,HB Educ,2+Ad/2+Car
+45,8,3,5,HB Educ,2+Ad/2+Car
+45,9,3,5,HB Educ,2+Ad/2+Car
+45,10,3,5,HB Educ,2+Ad/2+Car
+45,12,3,5,HB Educ,2+Ad/2+Car
+45,13,3,5,HB Educ,2+Ad/2+Car
+45,14,3,5,HB Educ,2+Ad/2+Car
+45,16,3,5,HB Educ,2+Ad/2+Car
+45,17,3,5,HB Educ,2+Ad/2+Car
+46,1,3,1,HB Educ,1-Ad/0-Car
+46,2,3,1,HB Educ,1-Ad/0-Car
+46,3,3,1,HB Educ,1-Ad/0-Car
+46,4,3,1,HB Educ,1-Ad/0-Car
+46,5,3,1,HB Educ,1-Ad/0-Car
+46,6,3,1,HB Educ,1-Ad/0-Car
+46,7,3,1,HB Educ,1-Ad/0-Car
+46,8,3,1,HB Educ,1-Ad/0-Car
+46,9,3,1,HB Educ,1-Ad/0-Car
+46,10,3,1,HB Educ,1-Ad/0-Car
+46,12,3,1,HB Educ,1-Ad/0-Car
+46,13,3,1,HB Educ,1-Ad/0-Car
+46,14,3,1,HB Educ,1-Ad/0-Car
+46,16,3,1,HB Educ,1-Ad/0-Car
+46,17,3,1,HB Educ,1-Ad/0-Car
+47,1,3,2,HB Educ,1-Ad/1-Car
+47,2,3,2,HB Educ,1-Ad/1-Car
+47,3,3,2,HB Educ,1-Ad/1-Car
+47,4,3,2,HB Educ,1-Ad/1-Car
+47,5,3,2,HB Educ,1-Ad/1-Car
+47,6,3,2,HB Educ,1-Ad/1-Car
+47,7,3,2,HB Educ,1-Ad/1-Car
+47,8,3,2,HB Educ,1-Ad/1-Car
+47,9,3,2,HB Educ,1-Ad/1-Car
+47,10,3,2,HB Educ,1-Ad/1-Car
+47,12,3,2,HB Educ,1-Ad/1-Car
+47,13,3,2,HB Educ,1-Ad/1-Car
+47,14,3,2,HB Educ,1-Ad/1-Car
+47,16,3,2,HB Educ,1-Ad/1-Car
+47,17,3,2,HB Educ,1-Ad/1-Car
+48,1,3,3,HB Educ,2+Ad/0-Car
+48,2,3,3,HB Educ,2+Ad/0-Car
+48,3,3,3,HB Educ,2+Ad/0-Car
+48,4,3,3,HB Educ,2+Ad/0-Car
+48,5,3,3,HB Educ,2+Ad/0-Car
+48,6,3,3,HB Educ,2+Ad/0-Car
+48,7,3,3,HB Educ,2+Ad/0-Car
+48,8,3,3,HB Educ,2+Ad/0-Car
+48,9,3,3,HB Educ,2+Ad/0-Car
+48,10,3,3,HB Educ,2+Ad/0-Car
+48,12,3,3,HB Educ,2+Ad/0-Car
+48,13,3,3,HB Educ,2+Ad/0-Car
+48,14,3,3,HB Educ,2+Ad/0-Car
+48,16,3,3,HB Educ,2+Ad/0-Car
+48,17,3,3,HB Educ,2+Ad/0-Car
+49,1,3,4,HB Educ,2+Ad/1-Car
+49,2,3,4,HB Educ,2+Ad/1-Car
+49,3,3,4,HB Educ,2+Ad/1-Car
+49,4,3,4,HB Educ,2+Ad/1-Car
+49,5,3,4,HB Educ,2+Ad/1-Car
+49,6,3,4,HB Educ,2+Ad/1-Car
+49,7,3,4,HB Educ,2+Ad/1-Car
+49,8,3,4,HB Educ,2+Ad/1-Car
+49,9,3,4,HB Educ,2+Ad/1-Car
+49,10,3,4,HB Educ,2+Ad/1-Car
+49,12,3,4,HB Educ,2+Ad/1-Car
+49,13,3,4,HB Educ,2+Ad/1-Car
+49,14,3,4,HB Educ,2+Ad/1-Car
+49,16,3,4,HB Educ,2+Ad/1-Car
+49,17,3,4,HB Educ,2+Ad/1-Car
+50,1,3,5,HB Educ,2+Ad/2+Car
+50,2,3,5,HB Educ,2+Ad/2+Car
+50,3,3,5,HB Educ,2+Ad/2+Car
+50,4,3,5,HB Educ,2+Ad/2+Car
+50,5,3,5,HB Educ,2+Ad/2+Car
+50,6,3,5,HB Educ,2+Ad/2+Car
+50,7,3,5,HB Educ,2+Ad/2+Car
+50,8,3,5,HB Educ,2+Ad/2+Car
+50,9,3,5,HB Educ,2+Ad/2+Car
+50,10,3,5,HB Educ,2+Ad/2+Car
+50,12,3,5,HB Educ,2+Ad/2+Car
+50,13,3,5,HB Educ,2+Ad/2+Car
+50,14,3,5,HB Educ,2+Ad/2+Car
+50,16,3,5,HB Educ,2+Ad/2+Car
+50,17,3,5,HB Educ,2+Ad/2+Car
+51,1,3,1,HB Educ,1-Ad/0-Car
+51,2,3,1,HB Educ,1-Ad/0-Car
+51,3,3,1,HB Educ,1-Ad/0-Car
+51,4,3,1,HB Educ,1-Ad/0-Car
+51,5,3,1,HB Educ,1-Ad/0-Car
+51,6,3,1,HB Educ,1-Ad/0-Car
+51,7,3,1,HB Educ,1-Ad/0-Car
+51,8,3,1,HB Educ,1-Ad/0-Car
+51,9,3,1,HB Educ,1-Ad/0-Car
+51,10,3,1,HB Educ,1-Ad/0-Car
+51,12,3,1,HB Educ,1-Ad/0-Car
+51,13,3,1,HB Educ,1-Ad/0-Car
+51,14,3,1,HB Educ,1-Ad/0-Car
+51,16,3,1,HB Educ,1-Ad/0-Car
+51,17,3,1,HB Educ,1-Ad/0-Car
+52,1,3,2,HB Educ,1-Ad/1-Car
+52,2,3,2,HB Educ,1-Ad/1-Car
+52,3,3,2,HB Educ,1-Ad/1-Car
+52,4,3,2,HB Educ,1-Ad/1-Car
+52,5,3,2,HB Educ,1-Ad/1-Car
+52,6,3,2,HB Educ,1-Ad/1-Car
+52,7,3,2,HB Educ,1-Ad/1-Car
+52,8,3,2,HB Educ,1-Ad/1-Car
+52,9,3,2,HB Educ,1-Ad/1-Car
+52,10,3,2,HB Educ,1-Ad/1-Car
+52,12,3,2,HB Educ,1-Ad/1-Car
+52,13,3,2,HB Educ,1-Ad/1-Car
+52,14,3,2,HB Educ,1-Ad/1-Car
+52,16,3,2,HB Educ,1-Ad/1-Car
+52,17,3,2,HB Educ,1-Ad/1-Car
+53,1,3,3,HB Educ,2+Ad/0-Car
+53,2,3,3,HB Educ,2+Ad/0-Car
+53,3,3,3,HB Educ,2+Ad/0-Car
+53,4,3,3,HB Educ,2+Ad/0-Car
+53,5,3,3,HB Educ,2+Ad/0-Car
+53,6,3,3,HB Educ,2+Ad/0-Car
+53,7,3,3,HB Educ,2+Ad/0-Car
+53,8,3,3,HB Educ,2+Ad/0-Car
+53,9,3,3,HB Educ,2+Ad/0-Car
+53,10,3,3,HB Educ,2+Ad/0-Car
+53,12,3,3,HB Educ,2+Ad/0-Car
+53,13,3,3,HB Educ,2+Ad/0-Car
+53,14,3,3,HB Educ,2+Ad/0-Car
+53,16,3,3,HB Educ,2+Ad/0-Car
+53,17,3,3,HB Educ,2+Ad/0-Car
+54,1,3,4,HB Educ,2+Ad/1-Car
+54,2,3,4,HB Educ,2+Ad/1-Car
+54,3,3,4,HB Educ,2+Ad/1-Car
+54,4,3,4,HB Educ,2+Ad/1-Car
+54,5,3,4,HB Educ,2+Ad/1-Car
+54,6,3,4,HB Educ,2+Ad/1-Car
+54,7,3,4,HB Educ,2+Ad/1-Car
+54,8,3,4,HB Educ,2+Ad/1-Car
+54,9,3,4,HB Educ,2+Ad/1-Car
+54,10,3,4,HB Educ,2+Ad/1-Car
+54,12,3,4,HB Educ,2+Ad/1-Car
+54,13,3,4,HB Educ,2+Ad/1-Car
+54,14,3,4,HB Educ,2+Ad/1-Car
+54,16,3,4,HB Educ,2+Ad/1-Car
+54,17,3,4,HB Educ,2+Ad/1-Car
+55,1,3,5,HB Educ,2+Ad/2+Car
+55,2,3,5,HB Educ,2+Ad/2+Car
+55,3,3,5,HB Educ,2+Ad/2+Car
+55,4,3,5,HB Educ,2+Ad/2+Car
+55,5,3,5,HB Educ,2+Ad/2+Car
+55,6,3,5,HB Educ,2+Ad/2+Car
+55,7,3,5,HB Educ,2+Ad/2+Car
+55,8,3,5,HB Educ,2+Ad/2+Car
+55,9,3,5,HB Educ,2+Ad/2+Car
+55,10,3,5,HB Educ,2+Ad/2+Car
+55,12,3,5,HB Educ,2+Ad/2+Car
+55,13,3,5,HB Educ,2+Ad/2+Car
+55,14,3,5,HB Educ,2+Ad/2+Car
+55,16,3,5,HB Educ,2+Ad/2+Car
+55,17,3,5,HB Educ,2+Ad/2+Car
+56,1,3,1,HB Educ,1-Ad/0-Car
+56,2,3,1,HB Educ,1-Ad/0-Car
+56,3,3,1,HB Educ,1-Ad/0-Car
+56,4,3,1,HB Educ,1-Ad/0-Car
+56,5,3,1,HB Educ,1-Ad/0-Car
+56,6,3,1,HB Educ,1-Ad/0-Car
+56,7,3,1,HB Educ,1-Ad/0-Car
+56,8,3,1,HB Educ,1-Ad/0-Car
+56,9,3,1,HB Educ,1-Ad/0-Car
+56,10,3,1,HB Educ,1-Ad/0-Car
+56,12,3,1,HB Educ,1-Ad/0-Car
+56,13,3,1,HB Educ,1-Ad/0-Car
+56,14,3,1,HB Educ,1-Ad/0-Car
+56,16,3,1,HB Educ,1-Ad/0-Car
+56,17,3,1,HB Educ,1-Ad/0-Car
+57,1,3,2,HB Educ,1-Ad/1-Car
+57,2,3,2,HB Educ,1-Ad/1-Car
+57,3,3,2,HB Educ,1-Ad/1-Car
+57,4,3,2,HB Educ,1-Ad/1-Car
+57,5,3,2,HB Educ,1-Ad/1-Car
+57,6,3,2,HB Educ,1-Ad/1-Car
+57,7,3,2,HB Educ,1-Ad/1-Car
+57,8,3,2,HB Educ,1-Ad/1-Car
+57,9,3,2,HB Educ,1-Ad/1-Car
+57,10,3,2,HB Educ,1-Ad/1-Car
+57,12,3,2,HB Educ,1-Ad/1-Car
+57,13,3,2,HB Educ,1-Ad/1-Car
+57,14,3,2,HB Educ,1-Ad/1-Car
+57,16,3,2,HB Educ,1-Ad/1-Car
+57,17,3,2,HB Educ,1-Ad/1-Car
+58,1,3,3,HB Educ,2+Ad/0-Car
+58,2,3,3,HB Educ,2+Ad/0-Car
+58,3,3,3,HB Educ,2+Ad/0-Car
+58,4,3,3,HB Educ,2+Ad/0-Car
+58,5,3,3,HB Educ,2+Ad/0-Car
+58,6,3,3,HB Educ,2+Ad/0-Car
+58,7,3,3,HB Educ,2+Ad/0-Car
+58,8,3,3,HB Educ,2+Ad/0-Car
+58,9,3,3,HB Educ,2+Ad/0-Car
+58,10,3,3,HB Educ,2+Ad/0-Car
+58,12,3,3,HB Educ,2+Ad/0-Car
+58,13,3,3,HB Educ,2+Ad/0-Car
+58,14,3,3,HB Educ,2+Ad/0-Car
+58,16,3,3,HB Educ,2+Ad/0-Car
+58,17,3,3,HB Educ,2+Ad/0-Car
+59,1,3,4,HB Educ,2+Ad/1-Car
+59,2,3,4,HB Educ,2+Ad/1-Car
+59,3,3,4,HB Educ,2+Ad/1-Car
+59,4,3,4,HB Educ,2+Ad/1-Car
+59,5,3,4,HB Educ,2+Ad/1-Car
+59,6,3,4,HB Educ,2+Ad/1-Car
+59,7,3,4,HB Educ,2+Ad/1-Car
+59,8,3,4,HB Educ,2+Ad/1-Car
+59,9,3,4,HB Educ,2+Ad/1-Car
+59,10,3,4,HB Educ,2+Ad/1-Car
+59,12,3,4,HB Educ,2+Ad/1-Car
+59,13,3,4,HB Educ,2+Ad/1-Car
+59,14,3,4,HB Educ,2+Ad/1-Car
+59,16,3,4,HB Educ,2+Ad/1-Car
+59,17,3,4,HB Educ,2+Ad/1-Car
+60,1,3,5,HB Educ,2+Ad/2+Car
+60,2,3,5,HB Educ,2+Ad/2+Car
+60,3,3,5,HB Educ,2+Ad/2+Car
+60,4,3,5,HB Educ,2+Ad/2+Car
+60,5,3,5,HB Educ,2+Ad/2+Car
+60,6,3,5,HB Educ,2+Ad/2+Car
+60,7,3,5,HB Educ,2+Ad/2+Car
+60,8,3,5,HB Educ,2+Ad/2+Car
+60,9,3,5,HB Educ,2+Ad/2+Car
+60,10,3,5,HB Educ,2+Ad/2+Car
+60,12,3,5,HB Educ,2+Ad/2+Car
+60,13,3,5,HB Educ,2+Ad/2+Car
+60,14,3,5,HB Educ,2+Ad/2+Car
+60,16,3,5,HB Educ,2+Ad/2+Car
+60,17,3,5,HB Educ,2+Ad/2+Car
+61,1,4,1,HB PB /Shop,1-Ad/0-Car
+61,2,4,1,HB PB /Shop,1-Ad/0-Car
+61,3,4,1,HB PB /Shop,1-Ad/0-Car
+61,4,4,1,HB PB /Shop,1-Ad/0-Car
+61,5,4,1,HB PB /Shop,1-Ad/0-Car
+61,6,4,1,HB PB /Shop,1-Ad/0-Car
+61,7,4,1,HB PB /Shop,1-Ad/0-Car
+61,8,4,1,HB PB /Shop,1-Ad/0-Car
+61,9,4,1,HB PB /Shop,1-Ad/0-Car
+61,10,4,1,HB PB /Shop,1-Ad/0-Car
+61,12,4,1,HB PB /Shop,1-Ad/0-Car
+61,13,4,1,HB PB /Shop,1-Ad/0-Car
+61,14,4,1,HB PB /Shop,1-Ad/0-Car
+61,16,4,1,HB PB /Shop,1-Ad/0-Car
+61,17,4,1,HB PB /Shop,1-Ad/0-Car
+62,1,4,2,HB PB /Shop,1-Ad/1-Car
+62,2,4,2,HB PB /Shop,1-Ad/1-Car
+62,3,4,2,HB PB /Shop,1-Ad/1-Car
+62,4,4,2,HB PB /Shop,1-Ad/1-Car
+62,5,4,2,HB PB /Shop,1-Ad/1-Car
+62,6,4,2,HB PB /Shop,1-Ad/1-Car
+62,7,4,2,HB PB /Shop,1-Ad/1-Car
+62,8,4,2,HB PB /Shop,1-Ad/1-Car
+62,9,4,2,HB PB /Shop,1-Ad/1-Car
+62,10,4,2,HB PB /Shop,1-Ad/1-Car
+62,12,4,2,HB PB /Shop,1-Ad/1-Car
+62,13,4,2,HB PB /Shop,1-Ad/1-Car
+62,14,4,2,HB PB /Shop,1-Ad/1-Car
+62,16,4,2,HB PB /Shop,1-Ad/1-Car
+62,17,4,2,HB PB /Shop,1-Ad/1-Car
+63,1,4,3,HB PB /Shop,2+Ad/0-Car
+63,2,4,3,HB PB /Shop,2+Ad/0-Car
+63,3,4,3,HB PB /Shop,2+Ad/0-Car
+63,4,4,3,HB PB /Shop,2+Ad/0-Car
+63,5,4,3,HB PB /Shop,2+Ad/0-Car
+63,6,4,3,HB PB /Shop,2+Ad/0-Car
+63,7,4,3,HB PB /Shop,2+Ad/0-Car
+63,8,4,3,HB PB /Shop,2+Ad/0-Car
+63,9,4,3,HB PB /Shop,2+Ad/0-Car
+63,10,4,3,HB PB /Shop,2+Ad/0-Car
+63,12,4,3,HB PB /Shop,2+Ad/0-Car
+63,13,4,3,HB PB /Shop,2+Ad/0-Car
+63,14,4,3,HB PB /Shop,2+Ad/0-Car
+63,16,4,3,HB PB /Shop,2+Ad/0-Car
+63,17,4,3,HB PB /Shop,2+Ad/0-Car
+64,1,4,4,HB PB /Shop,2+Ad/1-Car
+64,2,4,4,HB PB /Shop,2+Ad/1-Car
+64,3,4,4,HB PB /Shop,2+Ad/1-Car
+64,4,4,4,HB PB /Shop,2+Ad/1-Car
+64,5,4,4,HB PB /Shop,2+Ad/1-Car
+64,6,4,4,HB PB /Shop,2+Ad/1-Car
+64,7,4,4,HB PB /Shop,2+Ad/1-Car
+64,8,4,4,HB PB /Shop,2+Ad/1-Car
+64,9,4,4,HB PB /Shop,2+Ad/1-Car
+64,10,4,4,HB PB /Shop,2+Ad/1-Car
+64,12,4,4,HB PB /Shop,2+Ad/1-Car
+64,13,4,4,HB PB /Shop,2+Ad/1-Car
+64,14,4,4,HB PB /Shop,2+Ad/1-Car
+64,16,4,4,HB PB /Shop,2+Ad/1-Car
+64,17,4,4,HB PB /Shop,2+Ad/1-Car
+65,1,4,5,HB PB /Shop,2+Ad/2+Car
+65,2,4,5,HB PB /Shop,2+Ad/2+Car
+65,3,4,5,HB PB /Shop,2+Ad/2+Car
+65,4,4,5,HB PB /Shop,2+Ad/2+Car
+65,5,4,5,HB PB /Shop,2+Ad/2+Car
+65,6,4,5,HB PB /Shop,2+Ad/2+Car
+65,7,4,5,HB PB /Shop,2+Ad/2+Car
+65,8,4,5,HB PB /Shop,2+Ad/2+Car
+65,9,4,5,HB PB /Shop,2+Ad/2+Car
+65,10,4,5,HB PB /Shop,2+Ad/2+Car
+65,12,4,5,HB PB /Shop,2+Ad/2+Car
+65,13,4,5,HB PB /Shop,2+Ad/2+Car
+65,14,4,5,HB PB /Shop,2+Ad/2+Car
+65,16,4,5,HB PB /Shop,2+Ad/2+Car
+65,17,4,5,HB PB /Shop,2+Ad/2+Car
+66,1,4,1,HB PB /Shop,1-Ad/0-Car
+66,2,4,1,HB PB /Shop,1-Ad/0-Car
+66,3,4,1,HB PB /Shop,1-Ad/0-Car
+66,4,4,1,HB PB /Shop,1-Ad/0-Car
+66,5,4,1,HB PB /Shop,1-Ad/0-Car
+66,6,4,1,HB PB /Shop,1-Ad/0-Car
+66,7,4,1,HB PB /Shop,1-Ad/0-Car
+66,8,4,1,HB PB /Shop,1-Ad/0-Car
+66,9,4,1,HB PB /Shop,1-Ad/0-Car
+66,10,4,1,HB PB /Shop,1-Ad/0-Car
+66,12,4,1,HB PB /Shop,1-Ad/0-Car
+66,13,4,1,HB PB /Shop,1-Ad/0-Car
+66,14,4,1,HB PB /Shop,1-Ad/0-Car
+66,16,4,1,HB PB /Shop,1-Ad/0-Car
+66,17,4,1,HB PB /Shop,1-Ad/0-Car
+67,1,4,2,HB PB /Shop,1-Ad/1-Car
+67,2,4,2,HB PB /Shop,1-Ad/1-Car
+67,3,4,2,HB PB /Shop,1-Ad/1-Car
+67,4,4,2,HB PB /Shop,1-Ad/1-Car
+67,5,4,2,HB PB /Shop,1-Ad/1-Car
+67,6,4,2,HB PB /Shop,1-Ad/1-Car
+67,7,4,2,HB PB /Shop,1-Ad/1-Car
+67,8,4,2,HB PB /Shop,1-Ad/1-Car
+67,9,4,2,HB PB /Shop,1-Ad/1-Car
+67,10,4,2,HB PB /Shop,1-Ad/1-Car
+67,12,4,2,HB PB /Shop,1-Ad/1-Car
+67,13,4,2,HB PB /Shop,1-Ad/1-Car
+67,14,4,2,HB PB /Shop,1-Ad/1-Car
+67,16,4,2,HB PB /Shop,1-Ad/1-Car
+67,17,4,2,HB PB /Shop,1-Ad/1-Car
+68,1,4,3,HB PB /Shop,2+Ad/0-Car
+68,2,4,3,HB PB /Shop,2+Ad/0-Car
+68,3,4,3,HB PB /Shop,2+Ad/0-Car
+68,4,4,3,HB PB /Shop,2+Ad/0-Car
+68,5,4,3,HB PB /Shop,2+Ad/0-Car
+68,6,4,3,HB PB /Shop,2+Ad/0-Car
+68,7,4,3,HB PB /Shop,2+Ad/0-Car
+68,8,4,3,HB PB /Shop,2+Ad/0-Car
+68,9,4,3,HB PB /Shop,2+Ad/0-Car
+68,10,4,3,HB PB /Shop,2+Ad/0-Car
+68,12,4,3,HB PB /Shop,2+Ad/0-Car
+68,13,4,3,HB PB /Shop,2+Ad/0-Car
+68,14,4,3,HB PB /Shop,2+Ad/0-Car
+68,16,4,3,HB PB /Shop,2+Ad/0-Car
+68,17,4,3,HB PB /Shop,2+Ad/0-Car
+69,1,4,4,HB PB /Shop,2+Ad/1-Car
+69,2,4,4,HB PB /Shop,2+Ad/1-Car
+69,3,4,4,HB PB /Shop,2+Ad/1-Car
+69,4,4,4,HB PB /Shop,2+Ad/1-Car
+69,5,4,4,HB PB /Shop,2+Ad/1-Car
+69,6,4,4,HB PB /Shop,2+Ad/1-Car
+69,7,4,4,HB PB /Shop,2+Ad/1-Car
+69,8,4,4,HB PB /Shop,2+Ad/1-Car
+69,9,4,4,HB PB /Shop,2+Ad/1-Car
+69,10,4,4,HB PB /Shop,2+Ad/1-Car
+69,12,4,4,HB PB /Shop,2+Ad/1-Car
+69,13,4,4,HB PB /Shop,2+Ad/1-Car
+69,14,4,4,HB PB /Shop,2+Ad/1-Car
+69,16,4,4,HB PB /Shop,2+Ad/1-Car
+69,17,4,4,HB PB /Shop,2+Ad/1-Car
+70,1,4,5,HB PB /Shop,2+Ad/2+Car
+70,2,4,5,HB PB /Shop,2+Ad/2+Car
+70,3,4,5,HB PB /Shop,2+Ad/2+Car
+70,4,4,5,HB PB /Shop,2+Ad/2+Car
+70,5,4,5,HB PB /Shop,2+Ad/2+Car
+70,6,4,5,HB PB /Shop,2+Ad/2+Car
+70,7,4,5,HB PB /Shop,2+Ad/2+Car
+70,8,4,5,HB PB /Shop,2+Ad/2+Car
+70,9,4,5,HB PB /Shop,2+Ad/2+Car
+70,10,4,5,HB PB /Shop,2+Ad/2+Car
+70,12,4,5,HB PB /Shop,2+Ad/2+Car
+70,13,4,5,HB PB /Shop,2+Ad/2+Car
+70,14,4,5,HB PB /Shop,2+Ad/2+Car
+70,16,4,5,HB PB /Shop,2+Ad/2+Car
+70,17,4,5,HB PB /Shop,2+Ad/2+Car
+71,1,4,1,HB PB /Shop,1-Ad/0-Car
+71,2,4,1,HB PB /Shop,1-Ad/0-Car
+71,3,4,1,HB PB /Shop,1-Ad/0-Car
+71,4,4,1,HB PB /Shop,1-Ad/0-Car
+71,5,4,1,HB PB /Shop,1-Ad/0-Car
+71,6,4,1,HB PB /Shop,1-Ad/0-Car
+71,7,4,1,HB PB /Shop,1-Ad/0-Car
+71,8,4,1,HB PB /Shop,1-Ad/0-Car
+71,9,4,1,HB PB /Shop,1-Ad/0-Car
+71,10,4,1,HB PB /Shop,1-Ad/0-Car
+71,12,4,1,HB PB /Shop,1-Ad/0-Car
+71,13,4,1,HB PB /Shop,1-Ad/0-Car
+71,14,4,1,HB PB /Shop,1-Ad/0-Car
+71,16,4,1,HB PB /Shop,1-Ad/0-Car
+71,17,4,1,HB PB /Shop,1-Ad/0-Car
+72,1,4,2,HB PB /Shop,1-Ad/1-Car
+72,2,4,2,HB PB /Shop,1-Ad/1-Car
+72,3,4,2,HB PB /Shop,1-Ad/1-Car
+72,4,4,2,HB PB /Shop,1-Ad/1-Car
+72,5,4,2,HB PB /Shop,1-Ad/1-Car
+72,6,4,2,HB PB /Shop,1-Ad/1-Car
+72,7,4,2,HB PB /Shop,1-Ad/1-Car
+72,8,4,2,HB PB /Shop,1-Ad/1-Car
+72,9,4,2,HB PB /Shop,1-Ad/1-Car
+72,10,4,2,HB PB /Shop,1-Ad/1-Car
+72,12,4,2,HB PB /Shop,1-Ad/1-Car
+72,13,4,2,HB PB /Shop,1-Ad/1-Car
+72,14,4,2,HB PB /Shop,1-Ad/1-Car
+72,16,4,2,HB PB /Shop,1-Ad/1-Car
+72,17,4,2,HB PB /Shop,1-Ad/1-Car
+73,1,4,3,HB PB /Shop,2+Ad/0-Car
+73,2,4,3,HB PB /Shop,2+Ad/0-Car
+73,3,4,3,HB PB /Shop,2+Ad/0-Car
+73,4,4,3,HB PB /Shop,2+Ad/0-Car
+73,5,4,3,HB PB /Shop,2+Ad/0-Car
+73,6,4,3,HB PB /Shop,2+Ad/0-Car
+73,7,4,3,HB PB /Shop,2+Ad/0-Car
+73,8,4,3,HB PB /Shop,2+Ad/0-Car
+73,9,4,3,HB PB /Shop,2+Ad/0-Car
+73,10,4,3,HB PB /Shop,2+Ad/0-Car
+73,12,4,3,HB PB /Shop,2+Ad/0-Car
+73,13,4,3,HB PB /Shop,2+Ad/0-Car
+73,14,4,3,HB PB /Shop,2+Ad/0-Car
+73,16,4,3,HB PB /Shop,2+Ad/0-Car
+73,17,4,3,HB PB /Shop,2+Ad/0-Car
+74,1,4,4,HB PB /Shop,2+Ad/1-Car
+74,2,4,4,HB PB /Shop,2+Ad/1-Car
+74,3,4,4,HB PB /Shop,2+Ad/1-Car
+74,4,4,4,HB PB /Shop,2+Ad/1-Car
+74,5,4,4,HB PB /Shop,2+Ad/1-Car
+74,6,4,4,HB PB /Shop,2+Ad/1-Car
+74,7,4,4,HB PB /Shop,2+Ad/1-Car
+74,8,4,4,HB PB /Shop,2+Ad/1-Car
+74,9,4,4,HB PB /Shop,2+Ad/1-Car
+74,10,4,4,HB PB /Shop,2+Ad/1-Car
+74,12,4,4,HB PB /Shop,2+Ad/1-Car
+74,13,4,4,HB PB /Shop,2+Ad/1-Car
+74,14,4,4,HB PB /Shop,2+Ad/1-Car
+74,16,4,4,HB PB /Shop,2+Ad/1-Car
+74,17,4,4,HB PB /Shop,2+Ad/1-Car
+75,1,4,5,HB PB /Shop,2+Ad/2+Car
+75,2,4,5,HB PB /Shop,2+Ad/2+Car
+75,3,4,5,HB PB /Shop,2+Ad/2+Car
+75,4,4,5,HB PB /Shop,2+Ad/2+Car
+75,5,4,5,HB PB /Shop,2+Ad/2+Car
+75,6,4,5,HB PB /Shop,2+Ad/2+Car
+75,7,4,5,HB PB /Shop,2+Ad/2+Car
+75,8,4,5,HB PB /Shop,2+Ad/2+Car
+75,9,4,5,HB PB /Shop,2+Ad/2+Car
+75,10,4,5,HB PB /Shop,2+Ad/2+Car
+75,12,4,5,HB PB /Shop,2+Ad/2+Car
+75,13,4,5,HB PB /Shop,2+Ad/2+Car
+75,14,4,5,HB PB /Shop,2+Ad/2+Car
+75,16,4,5,HB PB /Shop,2+Ad/2+Car
+75,17,4,5,HB PB /Shop,2+Ad/2+Car
+76,1,4,1,HB PB /Shop,1-Ad/0-Car
+76,2,4,1,HB PB /Shop,1-Ad/0-Car
+76,3,4,1,HB PB /Shop,1-Ad/0-Car
+76,4,4,1,HB PB /Shop,1-Ad/0-Car
+76,5,4,1,HB PB /Shop,1-Ad/0-Car
+76,6,4,1,HB PB /Shop,1-Ad/0-Car
+76,7,4,1,HB PB /Shop,1-Ad/0-Car
+76,8,4,1,HB PB /Shop,1-Ad/0-Car
+76,9,4,1,HB PB /Shop,1-Ad/0-Car
+76,10,4,1,HB PB /Shop,1-Ad/0-Car
+76,12,4,1,HB PB /Shop,1-Ad/0-Car
+76,13,4,1,HB PB /Shop,1-Ad/0-Car
+76,14,4,1,HB PB /Shop,1-Ad/0-Car
+76,16,4,1,HB PB /Shop,1-Ad/0-Car
+76,17,4,1,HB PB /Shop,1-Ad/0-Car
+77,1,4,2,HB PB /Shop,1-Ad/1-Car
+77,2,4,2,HB PB /Shop,1-Ad/1-Car
+77,3,4,2,HB PB /Shop,1-Ad/1-Car
+77,4,4,2,HB PB /Shop,1-Ad/1-Car
+77,5,4,2,HB PB /Shop,1-Ad/1-Car
+77,6,4,2,HB PB /Shop,1-Ad/1-Car
+77,7,4,2,HB PB /Shop,1-Ad/1-Car
+77,8,4,2,HB PB /Shop,1-Ad/1-Car
+77,9,4,2,HB PB /Shop,1-Ad/1-Car
+77,10,4,2,HB PB /Shop,1-Ad/1-Car
+77,12,4,2,HB PB /Shop,1-Ad/1-Car
+77,13,4,2,HB PB /Shop,1-Ad/1-Car
+77,14,4,2,HB PB /Shop,1-Ad/1-Car
+77,16,4,2,HB PB /Shop,1-Ad/1-Car
+77,17,4,2,HB PB /Shop,1-Ad/1-Car
+78,1,4,3,HB PB /Shop,2+Ad/0-Car
+78,2,4,3,HB PB /Shop,2+Ad/0-Car
+78,3,4,3,HB PB /Shop,2+Ad/0-Car
+78,4,4,3,HB PB /Shop,2+Ad/0-Car
+78,5,4,3,HB PB /Shop,2+Ad/0-Car
+78,6,4,3,HB PB /Shop,2+Ad/0-Car
+78,7,4,3,HB PB /Shop,2+Ad/0-Car
+78,8,4,3,HB PB /Shop,2+Ad/0-Car
+78,9,4,3,HB PB /Shop,2+Ad/0-Car
+78,10,4,3,HB PB /Shop,2+Ad/0-Car
+78,12,4,3,HB PB /Shop,2+Ad/0-Car
+78,13,4,3,HB PB /Shop,2+Ad/0-Car
+78,14,4,3,HB PB /Shop,2+Ad/0-Car
+78,16,4,3,HB PB /Shop,2+Ad/0-Car
+78,17,4,3,HB PB /Shop,2+Ad/0-Car
+79,1,4,4,HB PB /Shop,2+Ad/1-Car
+79,2,4,4,HB PB /Shop,2+Ad/1-Car
+79,3,4,4,HB PB /Shop,2+Ad/1-Car
+79,4,4,4,HB PB /Shop,2+Ad/1-Car
+79,5,4,4,HB PB /Shop,2+Ad/1-Car
+79,6,4,4,HB PB /Shop,2+Ad/1-Car
+79,7,4,4,HB PB /Shop,2+Ad/1-Car
+79,8,4,4,HB PB /Shop,2+Ad/1-Car
+79,9,4,4,HB PB /Shop,2+Ad/1-Car
+79,10,4,4,HB PB /Shop,2+Ad/1-Car
+79,12,4,4,HB PB /Shop,2+Ad/1-Car
+79,13,4,4,HB PB /Shop,2+Ad/1-Car
+79,14,4,4,HB PB /Shop,2+Ad/1-Car
+79,16,4,4,HB PB /Shop,2+Ad/1-Car
+79,17,4,4,HB PB /Shop,2+Ad/1-Car
+80,1,4,5,HB PB /Shop,2+Ad/2+Car
+80,2,4,5,HB PB /Shop,2+Ad/2+Car
+80,3,4,5,HB PB /Shop,2+Ad/2+Car
+80,4,4,5,HB PB /Shop,2+Ad/2+Car
+80,5,4,5,HB PB /Shop,2+Ad/2+Car
+80,6,4,5,HB PB /Shop,2+Ad/2+Car
+80,7,4,5,HB PB /Shop,2+Ad/2+Car
+80,8,4,5,HB PB /Shop,2+Ad/2+Car
+80,9,4,5,HB PB /Shop,2+Ad/2+Car
+80,10,4,5,HB PB /Shop,2+Ad/2+Car
+80,12,4,5,HB PB /Shop,2+Ad/2+Car
+80,13,4,5,HB PB /Shop,2+Ad/2+Car
+80,14,4,5,HB PB /Shop,2+Ad/2+Car
+80,16,4,5,HB PB /Shop,2+Ad/2+Car
+80,17,4,5,HB PB /Shop,2+Ad/2+Car
+81,1,5,1,HB Rec/VF,1-Ad/0-Car
+81,2,5,1,HB Rec/VF,1-Ad/0-Car
+81,3,5,1,HB Rec/VF,1-Ad/0-Car
+81,4,5,1,HB Rec/VF,1-Ad/0-Car
+81,5,5,1,HB Rec/VF,1-Ad/0-Car
+81,6,5,1,HB Rec/VF,1-Ad/0-Car
+81,7,5,1,HB Rec/VF,1-Ad/0-Car
+81,8,5,1,HB Rec/VF,1-Ad/0-Car
+81,9,5,1,HB Rec/VF,1-Ad/0-Car
+81,10,5,1,HB Rec/VF,1-Ad/0-Car
+81,12,5,1,HB Rec/VF,1-Ad/0-Car
+81,13,5,1,HB Rec/VF,1-Ad/0-Car
+81,14,5,1,HB Rec/VF,1-Ad/0-Car
+81,16,5,1,HB Rec/VF,1-Ad/0-Car
+81,17,5,1,HB Rec/VF,1-Ad/0-Car
+82,1,5,2,HB Rec/VF,1-Ad/1-Car
+82,2,5,2,HB Rec/VF,1-Ad/1-Car
+82,3,5,2,HB Rec/VF,1-Ad/1-Car
+82,4,5,2,HB Rec/VF,1-Ad/1-Car
+82,5,5,2,HB Rec/VF,1-Ad/1-Car
+82,6,5,2,HB Rec/VF,1-Ad/1-Car
+82,7,5,2,HB Rec/VF,1-Ad/1-Car
+82,8,5,2,HB Rec/VF,1-Ad/1-Car
+82,9,5,2,HB Rec/VF,1-Ad/1-Car
+82,10,5,2,HB Rec/VF,1-Ad/1-Car
+82,12,5,2,HB Rec/VF,1-Ad/1-Car
+82,13,5,2,HB Rec/VF,1-Ad/1-Car
+82,14,5,2,HB Rec/VF,1-Ad/1-Car
+82,16,5,2,HB Rec/VF,1-Ad/1-Car
+82,17,5,2,HB Rec/VF,1-Ad/1-Car
+83,1,5,3,HB Rec/VF,2+Ad/0-Car
+83,2,5,3,HB Rec/VF,2+Ad/0-Car
+83,3,5,3,HB Rec/VF,2+Ad/0-Car
+83,4,5,3,HB Rec/VF,2+Ad/0-Car
+83,5,5,3,HB Rec/VF,2+Ad/0-Car
+83,6,5,3,HB Rec/VF,2+Ad/0-Car
+83,7,5,3,HB Rec/VF,2+Ad/0-Car
+83,8,5,3,HB Rec/VF,2+Ad/0-Car
+83,9,5,3,HB Rec/VF,2+Ad/0-Car
+83,10,5,3,HB Rec/VF,2+Ad/0-Car
+83,12,5,3,HB Rec/VF,2+Ad/0-Car
+83,13,5,3,HB Rec/VF,2+Ad/0-Car
+83,14,5,3,HB Rec/VF,2+Ad/0-Car
+83,16,5,3,HB Rec/VF,2+Ad/0-Car
+83,17,5,3,HB Rec/VF,2+Ad/0-Car
+84,1,5,4,HB Rec/VF,2+Ad/1-Car
+84,2,5,4,HB Rec/VF,2+Ad/1-Car
+84,3,5,4,HB Rec/VF,2+Ad/1-Car
+84,4,5,4,HB Rec/VF,2+Ad/1-Car
+84,5,5,4,HB Rec/VF,2+Ad/1-Car
+84,6,5,4,HB Rec/VF,2+Ad/1-Car
+84,7,5,4,HB Rec/VF,2+Ad/1-Car
+84,8,5,4,HB Rec/VF,2+Ad/1-Car
+84,9,5,4,HB Rec/VF,2+Ad/1-Car
+84,10,5,4,HB Rec/VF,2+Ad/1-Car
+84,12,5,4,HB Rec/VF,2+Ad/1-Car
+84,13,5,4,HB Rec/VF,2+Ad/1-Car
+84,14,5,4,HB Rec/VF,2+Ad/1-Car
+84,16,5,4,HB Rec/VF,2+Ad/1-Car
+84,17,5,4,HB Rec/VF,2+Ad/1-Car
+85,1,5,5,HB Rec/VF,2+Ad/2+Car
+85,2,5,5,HB Rec/VF,2+Ad/2+Car
+85,3,5,5,HB Rec/VF,2+Ad/2+Car
+85,4,5,5,HB Rec/VF,2+Ad/2+Car
+85,5,5,5,HB Rec/VF,2+Ad/2+Car
+85,6,5,5,HB Rec/VF,2+Ad/2+Car
+85,7,5,5,HB Rec/VF,2+Ad/2+Car
+85,8,5,5,HB Rec/VF,2+Ad/2+Car
+85,9,5,5,HB Rec/VF,2+Ad/2+Car
+85,10,5,5,HB Rec/VF,2+Ad/2+Car
+85,12,5,5,HB Rec/VF,2+Ad/2+Car
+85,13,5,5,HB Rec/VF,2+Ad/2+Car
+85,14,5,5,HB Rec/VF,2+Ad/2+Car
+85,16,5,5,HB Rec/VF,2+Ad/2+Car
+85,17,5,5,HB Rec/VF,2+Ad/2+Car
+86,1,5,1,HB Rec/VF,1-Ad/0-Car
+86,2,5,1,HB Rec/VF,1-Ad/0-Car
+86,3,5,1,HB Rec/VF,1-Ad/0-Car
+86,4,5,1,HB Rec/VF,1-Ad/0-Car
+86,5,5,1,HB Rec/VF,1-Ad/0-Car
+86,6,5,1,HB Rec/VF,1-Ad/0-Car
+86,7,5,1,HB Rec/VF,1-Ad/0-Car
+86,8,5,1,HB Rec/VF,1-Ad/0-Car
+86,9,5,1,HB Rec/VF,1-Ad/0-Car
+86,10,5,1,HB Rec/VF,1-Ad/0-Car
+86,12,5,1,HB Rec/VF,1-Ad/0-Car
+86,13,5,1,HB Rec/VF,1-Ad/0-Car
+86,14,5,1,HB Rec/VF,1-Ad/0-Car
+86,16,5,1,HB Rec/VF,1-Ad/0-Car
+86,17,5,1,HB Rec/VF,1-Ad/0-Car
+87,1,5,2,HB Rec/VF,1-Ad/1-Car
+87,2,5,2,HB Rec/VF,1-Ad/1-Car
+87,3,5,2,HB Rec/VF,1-Ad/1-Car
+87,4,5,2,HB Rec/VF,1-Ad/1-Car
+87,5,5,2,HB Rec/VF,1-Ad/1-Car
+87,6,5,2,HB Rec/VF,1-Ad/1-Car
+87,7,5,2,HB Rec/VF,1-Ad/1-Car
+87,8,5,2,HB Rec/VF,1-Ad/1-Car
+87,9,5,2,HB Rec/VF,1-Ad/1-Car
+87,10,5,2,HB Rec/VF,1-Ad/1-Car
+87,12,5,2,HB Rec/VF,1-Ad/1-Car
+87,13,5,2,HB Rec/VF,1-Ad/1-Car
+87,14,5,2,HB Rec/VF,1-Ad/1-Car
+87,16,5,2,HB Rec/VF,1-Ad/1-Car
+87,17,5,2,HB Rec/VF,1-Ad/1-Car
+88,1,5,3,HB Rec/VF,2+Ad/0-Car
+88,2,5,3,HB Rec/VF,2+Ad/0-Car
+88,3,5,3,HB Rec/VF,2+Ad/0-Car
+88,4,5,3,HB Rec/VF,2+Ad/0-Car
+88,5,5,3,HB Rec/VF,2+Ad/0-Car
+88,6,5,3,HB Rec/VF,2+Ad/0-Car
+88,7,5,3,HB Rec/VF,2+Ad/0-Car
+88,8,5,3,HB Rec/VF,2+Ad/0-Car
+88,9,5,3,HB Rec/VF,2+Ad/0-Car
+88,10,5,3,HB Rec/VF,2+Ad/0-Car
+88,12,5,3,HB Rec/VF,2+Ad/0-Car
+88,13,5,3,HB Rec/VF,2+Ad/0-Car
+88,14,5,3,HB Rec/VF,2+Ad/0-Car
+88,16,5,3,HB Rec/VF,2+Ad/0-Car
+88,17,5,3,HB Rec/VF,2+Ad/0-Car
+89,1,5,4,HB Rec/VF,2+Ad/1-Car
+89,2,5,4,HB Rec/VF,2+Ad/1-Car
+89,3,5,4,HB Rec/VF,2+Ad/1-Car
+89,4,5,4,HB Rec/VF,2+Ad/1-Car
+89,5,5,4,HB Rec/VF,2+Ad/1-Car
+89,6,5,4,HB Rec/VF,2+Ad/1-Car
+89,7,5,4,HB Rec/VF,2+Ad/1-Car
+89,8,5,4,HB Rec/VF,2+Ad/1-Car
+89,9,5,4,HB Rec/VF,2+Ad/1-Car
+89,10,5,4,HB Rec/VF,2+Ad/1-Car
+89,12,5,4,HB Rec/VF,2+Ad/1-Car
+89,13,5,4,HB Rec/VF,2+Ad/1-Car
+89,14,5,4,HB Rec/VF,2+Ad/1-Car
+89,16,5,4,HB Rec/VF,2+Ad/1-Car
+89,17,5,4,HB Rec/VF,2+Ad/1-Car
+90,1,5,5,HB Rec/VF,2+Ad/2+Car
+90,2,5,5,HB Rec/VF,2+Ad/2+Car
+90,3,5,5,HB Rec/VF,2+Ad/2+Car
+90,4,5,5,HB Rec/VF,2+Ad/2+Car
+90,5,5,5,HB Rec/VF,2+Ad/2+Car
+90,6,5,5,HB Rec/VF,2+Ad/2+Car
+90,7,5,5,HB Rec/VF,2+Ad/2+Car
+90,8,5,5,HB Rec/VF,2+Ad/2+Car
+90,9,5,5,HB Rec/VF,2+Ad/2+Car
+90,10,5,5,HB Rec/VF,2+Ad/2+Car
+90,12,5,5,HB Rec/VF,2+Ad/2+Car
+90,13,5,5,HB Rec/VF,2+Ad/2+Car
+90,14,5,5,HB Rec/VF,2+Ad/2+Car
+90,16,5,5,HB Rec/VF,2+Ad/2+Car
+90,17,5,5,HB Rec/VF,2+Ad/2+Car
+91,1,5,1,HB Rec/VF,1-Ad/0-Car
+91,2,5,1,HB Rec/VF,1-Ad/0-Car
+91,3,5,1,HB Rec/VF,1-Ad/0-Car
+91,4,5,1,HB Rec/VF,1-Ad/0-Car
+91,5,5,1,HB Rec/VF,1-Ad/0-Car
+91,6,5,1,HB Rec/VF,1-Ad/0-Car
+91,7,5,1,HB Rec/VF,1-Ad/0-Car
+91,8,5,1,HB Rec/VF,1-Ad/0-Car
+91,9,5,1,HB Rec/VF,1-Ad/0-Car
+91,10,5,1,HB Rec/VF,1-Ad/0-Car
+91,12,5,1,HB Rec/VF,1-Ad/0-Car
+91,13,5,1,HB Rec/VF,1-Ad/0-Car
+91,14,5,1,HB Rec/VF,1-Ad/0-Car
+91,16,5,1,HB Rec/VF,1-Ad/0-Car
+91,17,5,1,HB Rec/VF,1-Ad/0-Car
+92,1,5,2,HB Rec/VF,1-Ad/1-Car
+92,2,5,2,HB Rec/VF,1-Ad/1-Car
+92,3,5,2,HB Rec/VF,1-Ad/1-Car
+92,4,5,2,HB Rec/VF,1-Ad/1-Car
+92,5,5,2,HB Rec/VF,1-Ad/1-Car
+92,6,5,2,HB Rec/VF,1-Ad/1-Car
+92,7,5,2,HB Rec/VF,1-Ad/1-Car
+92,8,5,2,HB Rec/VF,1-Ad/1-Car
+92,9,5,2,HB Rec/VF,1-Ad/1-Car
+92,10,5,2,HB Rec/VF,1-Ad/1-Car
+92,12,5,2,HB Rec/VF,1-Ad/1-Car
+92,13,5,2,HB Rec/VF,1-Ad/1-Car
+92,14,5,2,HB Rec/VF,1-Ad/1-Car
+92,16,5,2,HB Rec/VF,1-Ad/1-Car
+92,17,5,2,HB Rec/VF,1-Ad/1-Car
+93,1,5,3,HB Rec/VF,2+Ad/0-Car
+93,2,5,3,HB Rec/VF,2+Ad/0-Car
+93,3,5,3,HB Rec/VF,2+Ad/0-Car
+93,4,5,3,HB Rec/VF,2+Ad/0-Car
+93,5,5,3,HB Rec/VF,2+Ad/0-Car
+93,6,5,3,HB Rec/VF,2+Ad/0-Car
+93,7,5,3,HB Rec/VF,2+Ad/0-Car
+93,8,5,3,HB Rec/VF,2+Ad/0-Car
+93,9,5,3,HB Rec/VF,2+Ad/0-Car
+93,10,5,3,HB Rec/VF,2+Ad/0-Car
+93,12,5,3,HB Rec/VF,2+Ad/0-Car
+93,13,5,3,HB Rec/VF,2+Ad/0-Car
+93,14,5,3,HB Rec/VF,2+Ad/0-Car
+93,16,5,3,HB Rec/VF,2+Ad/0-Car
+93,17,5,3,HB Rec/VF,2+Ad/0-Car
+94,1,5,4,HB Rec/VF,2+Ad/1-Car
+94,2,5,4,HB Rec/VF,2+Ad/1-Car
+94,3,5,4,HB Rec/VF,2+Ad/1-Car
+94,4,5,4,HB Rec/VF,2+Ad/1-Car
+94,5,5,4,HB Rec/VF,2+Ad/1-Car
+94,6,5,4,HB Rec/VF,2+Ad/1-Car
+94,7,5,4,HB Rec/VF,2+Ad/1-Car
+94,8,5,4,HB Rec/VF,2+Ad/1-Car
+94,9,5,4,HB Rec/VF,2+Ad/1-Car
+94,10,5,4,HB Rec/VF,2+Ad/1-Car
+94,12,5,4,HB Rec/VF,2+Ad/1-Car
+94,13,5,4,HB Rec/VF,2+Ad/1-Car
+94,14,5,4,HB Rec/VF,2+Ad/1-Car
+94,16,5,4,HB Rec/VF,2+Ad/1-Car
+94,17,5,4,HB Rec/VF,2+Ad/1-Car
+95,1,5,5,HB Rec/VF,2+Ad/2+Car
+95,2,5,5,HB Rec/VF,2+Ad/2+Car
+95,3,5,5,HB Rec/VF,2+Ad/2+Car
+95,4,5,5,HB Rec/VF,2+Ad/2+Car
+95,5,5,5,HB Rec/VF,2+Ad/2+Car
+95,6,5,5,HB Rec/VF,2+Ad/2+Car
+95,7,5,5,HB Rec/VF,2+Ad/2+Car
+95,8,5,5,HB Rec/VF,2+Ad/2+Car
+95,9,5,5,HB Rec/VF,2+Ad/2+Car
+95,10,5,5,HB Rec/VF,2+Ad/2+Car
+95,12,5,5,HB Rec/VF,2+Ad/2+Car
+95,13,5,5,HB Rec/VF,2+Ad/2+Car
+95,14,5,5,HB Rec/VF,2+Ad/2+Car
+95,16,5,5,HB Rec/VF,2+Ad/2+Car
+95,17,5,5,HB Rec/VF,2+Ad/2+Car
+96,1,5,1,HB Rec/VF,1-Ad/0-Car
+96,2,5,1,HB Rec/VF,1-Ad/0-Car
+96,3,5,1,HB Rec/VF,1-Ad/0-Car
+96,4,5,1,HB Rec/VF,1-Ad/0-Car
+96,5,5,1,HB Rec/VF,1-Ad/0-Car
+96,6,5,1,HB Rec/VF,1-Ad/0-Car
+96,7,5,1,HB Rec/VF,1-Ad/0-Car
+96,8,5,1,HB Rec/VF,1-Ad/0-Car
+96,9,5,1,HB Rec/VF,1-Ad/0-Car
+96,10,5,1,HB Rec/VF,1-Ad/0-Car
+96,12,5,1,HB Rec/VF,1-Ad/0-Car
+96,13,5,1,HB Rec/VF,1-Ad/0-Car
+96,14,5,1,HB Rec/VF,1-Ad/0-Car
+96,16,5,1,HB Rec/VF,1-Ad/0-Car
+96,17,5,1,HB Rec/VF,1-Ad/0-Car
+97,1,5,2,HB Rec/VF,1-Ad/1-Car
+97,2,5,2,HB Rec/VF,1-Ad/1-Car
+97,3,5,2,HB Rec/VF,1-Ad/1-Car
+97,4,5,2,HB Rec/VF,1-Ad/1-Car
+97,5,5,2,HB Rec/VF,1-Ad/1-Car
+97,6,5,2,HB Rec/VF,1-Ad/1-Car
+97,7,5,2,HB Rec/VF,1-Ad/1-Car
+97,8,5,2,HB Rec/VF,1-Ad/1-Car
+97,9,5,2,HB Rec/VF,1-Ad/1-Car
+97,10,5,2,HB Rec/VF,1-Ad/1-Car
+97,12,5,2,HB Rec/VF,1-Ad/1-Car
+97,13,5,2,HB Rec/VF,1-Ad/1-Car
+97,14,5,2,HB Rec/VF,1-Ad/1-Car
+97,16,5,2,HB Rec/VF,1-Ad/1-Car
+97,17,5,2,HB Rec/VF,1-Ad/1-Car
+98,1,5,3,HB Rec/VF,2+Ad/0-Car
+98,2,5,3,HB Rec/VF,2+Ad/0-Car
+98,3,5,3,HB Rec/VF,2+Ad/0-Car
+98,4,5,3,HB Rec/VF,2+Ad/0-Car
+98,5,5,3,HB Rec/VF,2+Ad/0-Car
+98,6,5,3,HB Rec/VF,2+Ad/0-Car
+98,7,5,3,HB Rec/VF,2+Ad/0-Car
+98,8,5,3,HB Rec/VF,2+Ad/0-Car
+98,9,5,3,HB Rec/VF,2+Ad/0-Car
+98,10,5,3,HB Rec/VF,2+Ad/0-Car
+98,12,5,3,HB Rec/VF,2+Ad/0-Car
+98,13,5,3,HB Rec/VF,2+Ad/0-Car
+98,14,5,3,HB Rec/VF,2+Ad/0-Car
+98,16,5,3,HB Rec/VF,2+Ad/0-Car
+98,17,5,3,HB Rec/VF,2+Ad/0-Car
+99,1,5,4,HB Rec/VF,2+Ad/1-Car
+99,2,5,4,HB Rec/VF,2+Ad/1-Car
+99,3,5,4,HB Rec/VF,2+Ad/1-Car
+99,4,5,4,HB Rec/VF,2+Ad/1-Car
+99,5,5,4,HB Rec/VF,2+Ad/1-Car
+99,6,5,4,HB Rec/VF,2+Ad/1-Car
+99,7,5,4,HB Rec/VF,2+Ad/1-Car
+99,8,5,4,HB Rec/VF,2+Ad/1-Car
+99,9,5,4,HB Rec/VF,2+Ad/1-Car
+99,10,5,4,HB Rec/VF,2+Ad/1-Car
+99,12,5,4,HB Rec/VF,2+Ad/1-Car
+99,13,5,4,HB Rec/VF,2+Ad/1-Car
+99,14,5,4,HB Rec/VF,2+Ad/1-Car
+99,16,5,4,HB Rec/VF,2+Ad/1-Car
+99,17,5,4,HB Rec/VF,2+Ad/1-Car
+100,1,5,5,HB Rec/VF,2+Ad/2+Car
+100,2,5,5,HB Rec/VF,2+Ad/2+Car
+100,3,5,5,HB Rec/VF,2+Ad/2+Car
+100,4,5,5,HB Rec/VF,2+Ad/2+Car
+100,5,5,5,HB Rec/VF,2+Ad/2+Car
+100,6,5,5,HB Rec/VF,2+Ad/2+Car
+100,7,5,5,HB Rec/VF,2+Ad/2+Car
+100,8,5,5,HB Rec/VF,2+Ad/2+Car
+100,9,5,5,HB Rec/VF,2+Ad/2+Car
+100,10,5,5,HB Rec/VF,2+Ad/2+Car
+100,12,5,5,HB Rec/VF,2+Ad/2+Car
+100,13,5,5,HB Rec/VF,2+Ad/2+Car
+100,14,5,5,HB Rec/VF,2+Ad/2+Car
+100,16,5,5,HB Rec/VF,2+Ad/2+Car
+100,17,5,5,HB Rec/VF,2+Ad/2+Car
+101,1,6,6,HB Hols,Car n/a
+101,2,6,6,HB Hols,Car n/a
+101,3,6,6,HB Hols,Car n/a
+101,4,6,6,HB Hols,Car n/a
+101,5,6,6,HB Hols,Car n/a
+101,6,6,6,HB Hols,Car n/a
+101,7,6,6,HB Hols,Car n/a
+101,8,6,6,HB Hols,Car n/a
+101,9,6,6,HB Hols,Car n/a
+101,10,6,6,HB Hols,Car n/a
+101,12,6,6,HB Hols,Car n/a
+101,13,6,6,HB Hols,Car n/a
+101,14,6,6,HB Hols,Car n/a
+101,16,6,6,HB Hols,Car n/a
+101,17,6,6,HB Hols,Car n/a
+102,1,7,6,NHB EB,Car n/a
+102,2,7,6,NHB EB,Car n/a
+102,3,7,6,NHB EB,Car n/a
+102,4,7,6,NHB EB,Car n/a
+102,5,7,6,NHB EB,Car n/a
+102,6,7,6,NHB EB,Car n/a
+102,7,7,6,NHB EB,Car n/a
+102,8,7,6,NHB EB,Car n/a
+102,9,7,6,NHB EB,Car n/a
+102,10,7,6,NHB EB,Car n/a
+102,12,7,6,NHB EB,Car n/a
+102,13,7,6,NHB EB,Car n/a
+102,14,7,6,NHB EB,Car n/a
+102,16,7,6,NHB EB,Car n/a
+102,17,7,6,NHB EB,Car n/a
+103,1,7,6,NHB EB,Car n/a
+103,2,7,6,NHB EB,Car n/a
+103,3,7,6,NHB EB,Car n/a
+103,4,7,6,NHB EB,Car n/a
+103,5,7,6,NHB EB,Car n/a
+103,6,7,6,NHB EB,Car n/a
+103,7,7,6,NHB EB,Car n/a
+103,8,7,6,NHB EB,Car n/a
+103,9,7,6,NHB EB,Car n/a
+103,10,7,6,NHB EB,Car n/a
+103,12,7,6,NHB EB,Car n/a
+103,13,7,6,NHB EB,Car n/a
+103,14,7,6,NHB EB,Car n/a
+103,16,7,6,NHB EB,Car n/a
+103,17,7,6,NHB EB,Car n/a
+104,1,7,6,NHB EB,Car n/a
+104,2,7,6,NHB EB,Car n/a
+104,3,7,6,NHB EB,Car n/a
+104,4,7,6,NHB EB,Car n/a
+104,5,7,6,NHB EB,Car n/a
+104,6,7,6,NHB EB,Car n/a
+104,7,7,6,NHB EB,Car n/a
+104,8,7,6,NHB EB,Car n/a
+104,9,7,6,NHB EB,Car n/a
+104,10,7,6,NHB EB,Car n/a
+104,12,7,6,NHB EB,Car n/a
+104,13,7,6,NHB EB,Car n/a
+104,14,7,6,NHB EB,Car n/a
+104,16,7,6,NHB EB,Car n/a
+104,17,7,6,NHB EB,Car n/a
+105,1,8,6,NHB Other,Car n/a
+105,2,8,6,NHB Other,Car n/a
+105,3,8,6,NHB Other,Car n/a
+105,4,8,6,NHB Other,Car n/a
+105,5,8,6,NHB Other,Car n/a
+105,6,8,6,NHB Other,Car n/a
+105,7,8,6,NHB Other,Car n/a
+105,8,8,6,NHB Other,Car n/a
+105,9,8,6,NHB Other,Car n/a
+105,10,8,6,NHB Other,Car n/a
+105,12,8,6,NHB Other,Car n/a
+105,13,8,6,NHB Other,Car n/a
+105,14,8,6,NHB Other,Car n/a
+105,16,8,6,NHB Other,Car n/a
+105,17,8,6,NHB Other,Car n/a
