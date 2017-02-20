@@ -29,6 +29,7 @@ The following R packages need to be installed
 install.packages("tidyverse")
 install.packages("RODBC")
 install.packages("gdata")
+install.packages("shiny")
 ```
 
 ### App options
