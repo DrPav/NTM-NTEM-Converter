@@ -1,4 +1,4 @@
-generate_ulc_files <- function(output_dir, ulc_type){
+generate_ulc_files <- function(output_dir, ulc_type = "policy"){
   require(gdata)
   # Function to create a ulc file that can be iterated over -----------------
   generate_ulc_file <- function(output_dir, ulc_type, year){

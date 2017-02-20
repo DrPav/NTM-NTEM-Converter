@@ -9,7 +9,7 @@ shinyUI(fluidPage(
     wellPanel(
       textInput("cTripends_directory", label = "cTripEnds folder", value = "C:\\ctripends_folder"),
       textInput('output_directory', label = 'Folder for output files', value = 'C:\\output_folder'),
-      radioButtons('ulc_type', "ULC file type", list("Base" = "base", "Policy" = "policy")),
+      radioButtons('ulc_type', "ULC file type", list("Policy" = "policy", "Base" = "base")),
       actionButton('go_button', "Go")
     )
 
