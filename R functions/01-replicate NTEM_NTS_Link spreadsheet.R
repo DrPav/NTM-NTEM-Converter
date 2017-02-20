@@ -120,6 +120,14 @@ extract_and_transform <- function(ctripends_directory, output_dir){
     gc()
   }
   
+  # Write a log file --------------------------------
+  log_text <- str_c(Sys.time(), " \nCTripEnds directory used: \n", ctripends_directory)
+  log_filepath <- str_c(output_dir,"/output log.txt")
+  write_lines(log_text, log_filepath)
+  
+
+  
+  
 }
 
 
