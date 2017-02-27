@@ -89,8 +89,7 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     
     # Sheet ULC(2) ------------------------------------------------------------
     
-    lookup_ProdSize <- ulc1_part1[1:15, c("Zone", "MinProd.")] %>%
-      rename(ProdSize = `MinProd.`)
+    lookup_ProdSize <- input_attr %>% mutate(ProdSize = round(Attractions, 0))
     
     ulc2 <- input_prod %>%
       mutate(` Fact` = loFlow + ProdBase,
@@ -101,7 +100,8 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
              ProdAttr = NA,
              `ImpAttr.` = NA) %>%
       arrange(` Fact`, Zone) %>%
-      left_join(lookup_ProdSize, by = "Zone") %>%
+      left_join(lookup_DBconstraint_pivot, by = c("loFlow", "NTM_Zone")) %>% # require purpose to join prodsize
+      left_join(lookup_ProdSize, by = c("Purp" = "NTM_Purpose", "Zone" = "NTM_Zone")) %>%
       select(` Fact`, Zone, ExogProd, ExogCons, ExogChrg, ProdAttr, `ImpAttr.`, ProdSize)
     
     
@@ -133,7 +133,8 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     CHANGES IN ZONAL CHARACTERISTICS"
     write(ulc_text,file=file_out, append=TRUE)
     
-    col_widths <- names(ulc2) %>% str_length()
+    
+    col_widths <- c(5,4,8,8,8,8,8,8)
     write.fwf(as.data.frame(ulc2), file_out, width = col_widths, append = TRUE)
     
     ulc_text <- " 00000000000000000000000000000000000000000000000000000000000000000000000
