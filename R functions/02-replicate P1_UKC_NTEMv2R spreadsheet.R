@@ -1,5 +1,7 @@
 generate_ulc_files <- function(output_dir, ulc_type = "policy"){
   require(gdata)
+  require(stringr)
+  require(dplyr)
   # Function to create a ulc file that can be iterated over -----------------
   generate_ulc_file <- function(output_dir, ulc_type, year){
     # ulc_type is "base" or "policy"
@@ -17,7 +19,15 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     ProdBase <- 1400
     
     lookup_DBconstraint_pivot <- read_csv("lookups/ULC DBconstraint pivot.csv")
-    lookup_DBconstraint <- read_csv("lookups/ULC DBconstraint.csv")
+    lookup_DBconstraint <- read_csv("lookups/ULC DBconstraint.csv") 
+    #the lookup column Dbprop is character as it is a percent in format 15.6%.
+    #It needs to be in format 0.156
+    lookup_DBconstraint <- lookup_DBconstraint %>%
+      mutate(Dbprop = str_replace(Dbprop , "\\%", ""),
+             Dbprop = as.numeric(Dbprop) / 100)
+      
+    
+    
     
     file_out <- str_c(output_dir, "/ULC-", ulc_type, "-", year, ".dat")
     
