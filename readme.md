@@ -32,6 +32,8 @@ install.packages("gdata")
 install.packages("shiny")
 ```
 
+A modern browser is required to view the app. It was tested with internet explorer 11.
+
 ### App options
 
 The app will ask you for
