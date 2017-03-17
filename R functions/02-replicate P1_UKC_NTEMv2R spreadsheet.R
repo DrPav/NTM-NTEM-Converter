@@ -119,18 +119,18 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     # Output File -------------------------------------------------------------
     
     ulc_text <- " -----------------------------------------------------------------------
-    Study : EM2.0
-    File  : Exogenous Changes
-    -----------------------------------------------------------------------
-    Id. Source......... Gen.Date.. Gen.Time..               Policy.... Year
-    ULC P1_ULC_V20.XLS                                      1
-    00000000000000000000000000000000000000000000000000000000000000000000000
-    PRODUCTION CONSTRAINTS"
+ Study : EM2.0
+ File  : Exogenous Changes
+ -----------------------------------------------------------------------
+ Id. Source......... Gen.Date.. Gen.Time..               Policy.... Year
+ ULC P1_ULC_V20.XLS                                      1
+ 00000000000000000000000000000000000000000000000000000000000000000000000
+ PRODUCTION CONSTRAINTS"
     
     write(ulc_text, file_out, append=FALSE)
     
     
-    col_widths <- c(5, 4, 9, 9, 8, 4, 1)
+    col_widths <- c(5, 4, 8, 8, 8, 4, 1)
     write.fwf(as.data.frame(ulc1_part1), file = file_out, width = col_widths, append = TRUE)
     
     if(ulc_type == "base"){
@@ -140,7 +140,7 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     }
     
     ulc_text <- " 00000000000000000000000000000000000000000000000000000000000000000000000
-    CHANGES IN ZONAL CHARACTERISTICS"
+ CHANGES IN ZONAL CHARACTERISTICS"
     write(ulc_text,file=file_out, append=TRUE)
     
     
@@ -148,10 +148,10 @@ generate_ulc_files <- function(output_dir, ulc_type = "policy"){
     write.fwf(as.data.frame(ulc2), file_out, width = col_widths, append = TRUE)
     
     ulc_text <- " 00000000000000000000000000000000000000000000000000000000000000000000000
-    STUDY-WIDE INCREMENTS AND DECREMENTS
-    Fact ExogProd ExogCons MinProd. MaxProd.
-    00000000000000000000000000000000000000000000000000000000000000000000000
-    00000000000000000000000000000000000000000000000000000000000000000000000"
+ STUDY-WIDE INCREMENTS AND DECREMENTS
+ Fact ExogProd ExogCons MinProd. MaxProd.
+ 00000000000000000000000000000000000000000000000000000000000000000000000
+ 00000000000000000000000000000000000000000000000000000000000000000000000"
     write(ulc_text,file=file_out,append=TRUE)
   }
   
